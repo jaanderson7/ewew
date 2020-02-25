@@ -940,3 +940,424 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-17.01.58:334][591]LogDirectoryWatcher: A directory notification failed for 'C:/Users/w211619481/Desktop/ewew/west/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2020.02.25-17.01.58:435][591]LogDirectoryWatcher: A directory notification failed for 'C:/Users/w211619481/Desktop/ewew/west/Content/Developers/W211619481/Collections/' because it could not be accessed. Aborting watch request...
 [2020.02.25-17.01.58:435][591]LogDirectoryWatcher: A directory notification failed for 'C:/Users/w211619481/Desktop/ewew/west/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.02.25-17.06.03:040][758]LogTexture: Display: Building textures: T_AVP2_CandleFlame (AutoDXT, 64X64)
+[2020.02.25-17.06.03:040][758]LogMaterial: Display: Missing cached shader map for material M_AVP2_FlameLick, compiling. 
+[2020.02.25-17.06.03:071][758]LogStaticMesh: Building static mesh SM_AVP2_CandleFlame...
+[2020.02.25-17.06.03:107][758]LogStaticMesh: Built static mesh [0.04s] /Game/ArchVisPolishPack02/Meshes/SM_AVP2_CandleFlame.SM_AVP2_CandleFlame
+[2020.02.25-17.06.03:257][758]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_C_0.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_C_0.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.03:257][758]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.03:284][758]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.03:285][758]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.03:289][758]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.03:437][758]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:019][764]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:322][774]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:323][774]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:324][774]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:359][775]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:361][775]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:425][777]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:426][777]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:494][779]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:524][780]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:525][780]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:564][781]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:593][782]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:595][782]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:626][782]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:628][782]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:629][782]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:666][784]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:667][784]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:669][784]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:735][786]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:736][786]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:769][787]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:771][787]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:835][789]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:837][789]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:902][791]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.04:903][791]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.05:002][794]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.05:469][808]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.05:472][808]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.05:505][809]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.05:508][809]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.05:510][809]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.05:542][810]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.05:543][810]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.05:607][812]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.05:609][812]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.05:940][822]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.05:941][822]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.05:977][823]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.06:007][824]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.06:008][824]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.06:347][833]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_C_1.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_C_1.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.06:348][833]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.06:354][833]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.06:354][833]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.06:355][833]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.06:355][833]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.07:356][864]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.07:523][869]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.07:589][871]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.07:823][878]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.08:057][885]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.08:325][893]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.09:407][924]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.09:441][925]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.09:474][926]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.09:642][931]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.09:708][933]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.09:742][934]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.09:843][937]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.09:910][939]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.16:539][127]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.16:574][128]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.16:611][129]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.16:647][130]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.16:682][131]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.16:718][132]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.16:897][137]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.20:136][226]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.20:173][227]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.20:208][228]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.20:245][229]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.21:213][256]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.21:249][257]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.21:285][258]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.21:321][259]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.21:571][266]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.22:695][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PR_desert_U2)
+[2020.02.25-17.06.23:588][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PR_desert_U2)
+[2020.02.25-17.06.24:228][333]LogEditorViewport: Clicking on Actor (LMB): BP_AVP2_CandleFlameAndLight_C (BP_AVP2_CandleFlameAndLight)
+[2020.02.25-17.06.24:232][333]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.26:652][399]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.26:688][400]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.26:724][401]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.26:760][402]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.26:796][403]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.26:832][404]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.26:868][405]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.26:903][406]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.26:939][407]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.26:975][408]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.27:011][409]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.27:082][411]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.27:118][412]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.27:154][413]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.27:190][414]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.27:584][425]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.28:622][450]LogMaterial: Display: Missing cached shader map for material M_AVP2_CandleWax, compiling. 
+[2020.02.25-17.06.28:680][450]LogStaticMesh: Building static mesh SM_AVP2_Candle_Tealight_Naked...
+[2020.02.25-17.06.28:706][450]LogStaticMesh: Built static mesh [0.03s] /Game/ArchVisPolishPack02/Meshes/Candles/SM_AVP2_Candle_Tealight_Naked.SM_AVP2_Candle_Tealight_Naked
+[2020.02.25-17.06.34:404][597]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-17.06.34:413][597]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-17.06.34:413][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-17.06.34:413][597]PIE: New page: PIE session: FirstPersonExampleMap (Feb 25, 2020, 5:06:34 AM)
+[2020.02.25-17.06.34:413][597]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.02.25-17.06.34:445][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032070s)
+[2020.02.25-17.06.34:448][597]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.25-17.06.34:449][597]LogPlayLevel: PIE: World Init took: (0.003288s)
+[2020.02.25-17.06.34:449][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.035509s)
+[2020.02.25-17.06.34:477][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.02.25-17.06.34:480][597]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.25-17.06.34:481][597]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.25-17.06.34:481][597]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.25-17.06.34:481][597]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.25-17.06.34:481][597]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.25-17.06.34:481][597]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.25-17.06.34:481][597]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.25-17.06.34:481][597]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.25-17.06.34:481][597]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.25-17.06.34:481][597]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.25-17.06.34:484][597]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.25-17.06.34:484][597]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek High Definition Audio)
+[2020.02.25-17.06.34:484][597]LogAudioMixer: Display: Is Default: Yes
+[2020.02.25-17.06.34:484][597]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.25-17.06.34:484][597]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.25-17.06.34:484][597]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.25-17.06.34:484][597]LogAudioMixer: Display: Channel Order:
+[2020.02.25-17.06.34:484][597]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.25-17.06.34:484][597]LogAudioMixer: Display: 1: FrontRight
+[2020.02.25-17.06.34:509][597]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.02.25-17.06.34:512][597]LogInit: FAudioDevice initialized.
+[2020.02.25-17.06.34:517][597]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.25-17.06.34:519][597]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.02.25-11.06.34
+[2020.02.25-17.06.34:519][597]LogWorld: Bringing up level for play took: 0.000968
+[2020.02.25-17.06.34:519][597]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.02.25-17.06.34:520][597]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.02.25-17.06.34:521][597]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.732
+[2020.02.25-17.06.34:521][597]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-17.06.38:417][719]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.06.38:419][719]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.25-17.06.38:440][719]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.25-17.06.38:440][719]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-17.06.38:440][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.06.38:440][719]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.02.25-17.06.38:440][719]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.06.38:440][719]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-17.06.38:440][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-17.06.38:489][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-17.06.38:489][719]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-17.06.38:492][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-17.06.38:514][719]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.06.38:517][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.06.38:520][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.02.25-17.06.38:541][720]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.25-17.06.39:664][760]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-17.06.39:672][760]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-17.06.39:672][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-17.06.39:672][760]PIE: New page: PIE session: FirstPersonExampleMap (Feb 25, 2020, 5:06:39 AM)
+[2020.02.25-17.06.39:672][760]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.02.25-17.06.39:701][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028778s)
+[2020.02.25-17.06.39:702][760]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.25-17.06.39:702][760]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2020.02.25-17.06.39:702][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.030139s)
+[2020.02.25-17.06.39:739][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.02.25-17.06.39:742][760]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.25-17.06.39:742][760]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.25-17.06.39:742][760]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.25-17.06.39:742][760]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.25-17.06.39:742][760]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.25-17.06.39:742][760]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.25-17.06.39:742][760]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.25-17.06.39:742][760]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.25-17.06.39:743][760]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.25-17.06.39:743][760]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.25-17.06.39:746][760]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.25-17.06.39:746][760]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek High Definition Audio)
+[2020.02.25-17.06.39:746][760]LogAudioMixer: Display: Is Default: Yes
+[2020.02.25-17.06.39:746][760]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.25-17.06.39:746][760]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.25-17.06.39:746][760]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.25-17.06.39:746][760]LogAudioMixer: Display: Channel Order:
+[2020.02.25-17.06.39:746][760]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.25-17.06.39:746][760]LogAudioMixer: Display: 1: FrontRight
+[2020.02.25-17.06.39:784][760]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.02.25-17.06.39:786][760]LogInit: FAudioDevice initialized.
+[2020.02.25-17.06.39:849][760]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.25-17.06.39:850][760]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.02.25-11.06.39
+[2020.02.25-17.06.39:850][760]LogWorld: Bringing up level for play took: 0.000839
+[2020.02.25-17.06.39:850][760]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.02.25-17.06.39:851][760]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.02.25-17.06.39:852][760]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.599
+[2020.02.25-17.06.39:852][760]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-17.06.40:217][771]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.06.40:217][771]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.06.40:217][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-17.06.40:217][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.06.40:217][771]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.02.25-17.06.40:217][771]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.06.40:217][771]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-17.06.40:218][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-17.06.40:308][771]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-17.06.40:308][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-17.06.40:311][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-17.06.40:335][771]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.06.40:338][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.06.40:341][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.25-17.06.40:358][772]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.25-17.06.43:153][841]LogEditorViewport: Clicking on Actor (LMB): BP_AVP2_Candle_Tealight_Naked_C (BP_AVP2_Candle_Tealight_Naked)
+[2020.02.25-17.06.44:243][872]Cmd: DELETE
+[2020.02.25-17.06.44:243][872]Cmd: ACTOR DELETE
+[2020.02.25-17.06.44:245][872]LogEditorActor: Deleted Actor: BP_AVP2_Candle_Tealight_Naked_C
+[2020.02.25-17.06.44:278][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.02.25-17.06.44:279][872]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.02.25-17.06.45:064][897]LogEditorViewport: Clicking on Actor (LMB): BP_AVP2_CandleFlameAndLight_C (BP_AVP2_CandleFlameAndLight)
+[2020.02.25-17.06.45:070][897]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.P_FlameFlicker' is not static  (in blueprint "BP_AVP2_CandleFlameAndLight"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_AVP2_CandleFlameAndLight_2.PointLight' which is static to it. Aborting.
+[2020.02.25-17.06.45:475][908]Cmd: DELETE
+[2020.02.25-17.06.45:475][908]Cmd: ACTOR DELETE
+[2020.02.25-17.06.45:477][908]LogEditorActor: Deleted Actor: BP_AVP2_CandleFlameAndLight_C
+[2020.02.25-17.06.45:509][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.02.25-17.06.45:510][908]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.02.25-17.06.52:889][114]Cmd: DELETE
+[2020.02.25-17.06.52:889][114]Cmd: ACTOR DELETE
+[2020.02.25-17.06.52:891][114]LogEditorActor: Deleted Actor: BP_AVP2_Candle_Tealight_Naked_C
+[2020.02.25-17.06.52:923][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.02.25-17.06.52:925][114]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.02.25-17.07.01:989][374]LogStaticMesh: Building static mesh SM_AVP2_Deco_Candlestick_02...
+[2020.02.25-17.07.02:065][374]LogStaticMesh: Built static mesh [0.08s] /Game/ArchVisPolishPack02/Meshes/Decoration/SM_AVP2_Deco_Candlestick_02.SM_AVP2_Deco_Candlestick_02
+[2020.02.25-17.07.02:084][374]LogMaterial: Display: Missing cached shader map for material M_AVP2_Plastic, compiling. 
+[2020.02.25-17.07.10:803][569]LogStaticMesh: Building static mesh SM_AVP2_Candle_06...
+[2020.02.25-17.07.10:836][569]LogStaticMesh: Built static mesh [0.03s] /Game/ArchVisPolishPack02/Meshes/Candles/SM_AVP2_Candle_06.SM_AVP2_Candle_06
+[2020.02.25-17.07.37:019][293]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-17.07.37:028][293]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-17.07.37:028][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-17.07.37:028][293]PIE: New page: PIE session: FirstPersonExampleMap (Feb 25, 2020, 5:07:37 AM)
+[2020.02.25-17.07.37:028][293]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.02.25-17.07.37:057][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029466s)
+[2020.02.25-17.07.37:059][293]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.25-17.07.37:059][293]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2020.02.25-17.07.37:059][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.031007s)
+[2020.02.25-17.07.37:087][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.02.25-17.07.37:091][293]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.25-17.07.37:091][293]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.25-17.07.37:091][293]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.25-17.07.37:091][293]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.25-17.07.37:091][293]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.25-17.07.37:091][293]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.25-17.07.37:091][293]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.25-17.07.37:091][293]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.25-17.07.37:092][293]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.25-17.07.37:092][293]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.25-17.07.37:094][293]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.25-17.07.37:094][293]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek High Definition Audio)
+[2020.02.25-17.07.37:094][293]LogAudioMixer: Display: Is Default: Yes
+[2020.02.25-17.07.37:094][293]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.25-17.07.37:094][293]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.25-17.07.37:094][293]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.25-17.07.37:094][293]LogAudioMixer: Display: Channel Order:
+[2020.02.25-17.07.37:094][293]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.25-17.07.37:094][293]LogAudioMixer: Display: 1: FrontRight
+[2020.02.25-17.07.37:118][293]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.02.25-17.07.37:120][293]LogInit: FAudioDevice initialized.
+[2020.02.25-17.07.37:128][293]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.25-17.07.37:129][293]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.02.25-11.07.37
+[2020.02.25-17.07.37:129][293]LogWorld: Bringing up level for play took: 0.000876
+[2020.02.25-17.07.37:130][293]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.02.25-17.07.37:131][293]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.02.25-17.07.37:131][293]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.123
+[2020.02.25-17.07.37:131][293]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-17.07.48:389][621]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.07.48:389][621]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.07.48:389][621]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-17.07.48:389][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.07.48:389][621]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.02.25-17.07.48:389][621]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.07.48:389][621]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-17.07.48:389][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-17.07.48:491][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-17.07.48:491][621]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-17.07.48:494][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-17.07.48:517][621]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.07.48:520][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.07.48:523][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.02.25-17.07.48:542][622]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.25-17.07.52:432][686]LogEditorViewport: Clicking on Actor (LMB): BP_AVP2_Candle_06_C (BP_AVP2_Candle_06)
+[2020.02.25-17.07.53:735][719]Cmd: DELETE
+[2020.02.25-17.07.53:735][719]Cmd: ACTOR DELETE
+[2020.02.25-17.07.53:737][719]LogEditorActor: Deleted Actor: BP_AVP2_Candle_06_C
+[2020.02.25-17.07.53:774][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.02.25-17.07.53:776][719]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.02.25-17.07.54:837][735]LogStaticMesh: Building static mesh SM_AVP2_Candle_07...
+[2020.02.25-17.07.54:903][735]LogStaticMesh: Built static mesh [0.07s] /Game/ArchVisPolishPack02/Meshes/Candles/SM_AVP2_Candle_07.SM_AVP2_Candle_07
+[2020.02.25-17.08.00:692][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2020.02.25-17.08.02:589][932]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.02.25-17.08.03:490][956]Cmd: DELETE
+[2020.02.25-17.08.03:490][956]Cmd: ACTOR DELETE
+[2020.02.25-17.08.03:492][956]LogEditorActor: Deleted Actor: PointLight
+[2020.02.25-17.08.03:562][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.02.25-17.08.03:564][956]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2020.02.25-17.08.05:332][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2020.02.25-17.08.09:560][131]LogEditorViewport: Clicking on Actor (LMB): BP_AVP2_Deco_Candlestick_02_C (BP_AVP2_Deco_Candlestick_02)
+[2020.02.25-17.08.10:498][156]LogEditorViewport: Clicking on Actor (context menu): BP_AVP2_Deco_Candlestick_02_C (BP_AVP2_Deco_Candlestick_02)
+[2020.02.25-17.08.11:361][178]LogEditorViewport: Clicking on Actor (LMB): BP_AVP2_Candle_07_C (BP_AVP2_Candle_07)
+[2020.02.25-17.08.26:442][644]LogEditorViewport: Clicking on Actor (LMB): BP_AVP2_Deco_Candlestick_02_C (BP_AVP2_Deco_Candlestick_02)
+[2020.02.25-17.08.33:496][867]LogEditorViewport: Clicking on Actor (LMB): BP_AVP2_Candle_07_C (BP_AVP2_Candle_07)
+[2020.02.25-17.09.06:910][897]LogEditorViewport: Clicking on Actor (LMB): BP_AVP2_Candle_07_C (BP_AVP2_Candle_07)
+[2020.02.25-17.09.24:752][482]Cmd: DELETE
+[2020.02.25-17.09.24:753][482]Cmd: ACTOR DELETE
+[2020.02.25-17.09.24:756][482]LogEditorActor: Deleted Actor: BP_AVP2_Candle_07_C
+[2020.02.25-17.09.24:812][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.02.25-17.09.24:814][482]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2020.02.25-17.09.36:173][870]LogEditorViewport: Clicking on Actor (LMB): BP_AVP2_Deco_Candlestick_02_C (BP_AVP2_Deco_Candlestick_02)
+[2020.02.25-17.09.37:201][904]Cmd: DELETE
+[2020.02.25-17.09.37:201][904]Cmd: ACTOR DELETE
+[2020.02.25-17.09.37:204][904]LogEditorActor: Deleted Actor: BP_AVP2_Deco_Candlestick_02_C
+[2020.02.25-17.09.37:243][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.02.25-17.09.37:245][904]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.02.25-17.09.53:591][290]LogStaticMesh: Building static mesh SM_AVP2_Deco_Candlestick_01...
+[2020.02.25-17.09.53:634][290]LogStaticMesh: Built static mesh [0.04s] /Game/ArchVisPolishPack02/Meshes/Decoration/SM_AVP2_Deco_Candlestick_01.SM_AVP2_Deco_Candlestick_01
+[2020.02.25-17.09.56:763][290]LogTexture: Display: Building textures: T_AVP2_Deco_M (AutoDXT, 4096X4096)
+[2020.02.25-17.09.56:764][290]LogTexture: Display: Building textures: T_AVP2_Deco_D (AutoDXT, 4096X4096)
+[2020.02.25-17.09.56:764][290]LogTexture: Display: Building textures: T_AVP2_Deco_N (BC5, 4096X4096)
+[2020.02.25-17.09.56:764][290]LogMaterial: Display: Missing cached shader map for material M_AVP2_Deco, compiling. 
+[2020.02.25-17.09.56:862][290]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor)
+[2020.02.25-17.10.06:698][590]LogEditorViewport: Clicking on Actor (LMB): BP_AVP2_Deco_Candlestick_01_C (BP_AVP2_Deco_Candlestick_01)
+[2020.02.25-17.10.07:782][627]Cmd: DELETE
+[2020.02.25-17.10.07:782][627]Cmd: ACTOR DELETE
+[2020.02.25-17.10.07:784][627]LogEditorActor: Deleted Actor: BP_AVP2_Deco_Candlestick_01_C
+[2020.02.25-17.10.07:840][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.02.25-17.10.07:853][627]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2020.02.25-17.10.37:711][501]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.25-17.10.40:083][570]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-17.10.40:093][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-17.10.40:093][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-17.10.40:093][570]PIE: New page: PIE session: FirstPersonExampleMap (Feb 25, 2020, 5:10:40 AM)
+[2020.02.25-17.10.40:093][570]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.02.25-17.10.40:129][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035662s)
+[2020.02.25-17.10.40:130][570]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.25-17.10.40:130][570]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2020.02.25-17.10.40:130][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.037006s)
+[2020.02.25-17.10.40:161][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.25-17.10.40:168][570]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.25-17.10.40:168][570]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.25-17.10.40:168][570]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.25-17.10.40:168][570]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.25-17.10.40:168][570]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.25-17.10.40:168][570]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.25-17.10.40:168][570]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.25-17.10.40:168][570]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.25-17.10.40:168][570]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.25-17.10.40:168][570]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.25-17.10.40:170][570]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.25-17.10.40:170][570]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek High Definition Audio)
+[2020.02.25-17.10.40:170][570]LogAudioMixer: Display: Is Default: Yes
+[2020.02.25-17.10.40:170][570]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.25-17.10.40:170][570]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.25-17.10.40:170][570]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.25-17.10.40:170][570]LogAudioMixer: Display: Channel Order:
+[2020.02.25-17.10.40:170][570]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.25-17.10.40:170][570]LogAudioMixer: Display: 1: FrontRight
+[2020.02.25-17.10.40:194][570]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.02.25-17.10.40:196][570]LogInit: FAudioDevice initialized.
+[2020.02.25-17.10.40:201][570]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.25-17.10.40:202][570]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.02.25-11.10.40
+[2020.02.25-17.10.40:202][570]LogWorld: Bringing up level for play took: 0.000803
+[2020.02.25-17.10.40:203][570]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.02.25-17.10.40:204][570]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.02.25-17.10.40:204][570]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.945
+[2020.02.25-17.10.40:204][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-17.10.56:293][113]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.10.56:293][113]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.10.56:293][113]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-17.10.56:293][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.10.56:293][113]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.02.25-17.10.56:293][113]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.10.56:293][113]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-17.10.56:293][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-17.10.56:371][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-17.10.56:372][113]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-17.10.56:381][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-17.10.56:431][113]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-17.10.56:433][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-17.10.56:436][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.02.25-17.10.56:456][114]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.25-17.10.57:886][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2020.02.25-17.10.58:782][191]LogEditorViewport: Clicking on Actor (LMB): BP_AVP2_Deco_Candlestick_01_C (BP_AVP2_Deco_Candlestick_01)
+[2020.02.25-17.11.18:260][798]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.25-17.11.19:182][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2020.02.25-17.11.24:854][  4]Cmd: SELECT NONE
+[2020.02.25-17.12.13:905][578]Cmd: DELETE
+[2020.02.25-17.12.13:905][578]Cmd: ACTOR DELETE
+[2020.02.25-17.12.13:913][578]LogEditorActor: Deleted Actor: Emitter
+[2020.02.25-17.12.13:964][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.02.25-17.12.13:968][578]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2020.02.25-17.12.29:139][118]LogEditorViewport: Clicking on Actor (LMB): BP_AVP2_Candle_07_C (BP_AVP2_Candle_07)
+[2020.02.25-17.12.30:611][167]Cmd: DELETE
+[2020.02.25-17.12.30:611][167]Cmd: ACTOR DELETE
+[2020.02.25-17.12.30:614][167]LogEditorActor: Deleted Actor: BP_AVP2_Candle_07_C
+[2020.02.25-17.12.30:660][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.02.25-17.12.30:662][167]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.02.25-17.12.32:799][248]LogEditorViewport: Clicking on Actor (LMB): BP_AVP2_Deco_Candlestick_01_C (BP_AVP2_Deco_Candlestick_01)
+[2020.02.25-17.12.34:008][291]Cmd: DELETE
+[2020.02.25-17.12.34:008][291]Cmd: ACTOR DELETE
+[2020.02.25-17.12.34:010][291]LogEditorActor: Deleted Actor: BP_AVP2_Deco_Candlestick_01_C
+[2020.02.25-17.12.34:037][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.02.25-17.12.34:038][291]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.25-17.13.07:356][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.02.25-17.13.07:566][684]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMap_Auto13EBE089546A83C47CFB3D1AF3500743C.tmp' to '../../../../Desktop/ewew/west/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.02.25-17.13.07:583][684]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.261
+[2020.02.25-17.13.07:583][684]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.261
