@@ -2027,3 +2027,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-15.00.34:999][879]AssetCheck: New page: Asset Save: multiple assets
 [2020.02.25-15.00.34:999][879]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
 [2020.02.25-15.00.34:999][879]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2020.02.25-15.05.35:635][977]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.25-15.05.35:974][978]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.25-15.05.35:974][978]LogAudioMixer: Display: Audio Buffer Underrun detected.
