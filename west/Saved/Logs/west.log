@@ -1665,3 +1665,67 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-18.39.48:710][735]AssetCheck: New page: Asset Save: multiple assets
 [2020.02.25-18.39.48:710][735]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.02.25-18.39.48:710][735]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.02.25-18.40.23:963][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowWall)
+[2020.02.25-18.40.25:150][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall4)
+[2020.02.25-18.40.26:985][126]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.25-18.40.37:972][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall4)
+[2020.02.25-18.40.54:697][795]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.25-18.40.59:455][901]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.02.25-18.41.10:105][157]Cmd: DELETE
+[2020.02.25-18.41.10:105][157]Cmd: ACTOR DELETE
+[2020.02.25-18.41.10:108][157]LogEditorActor: Deleted Actor: PointLight
+[2020.02.25-18.41.10:145][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.02.25-18.41.10:147][157]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.02.25-18.41.25:528][599]Cmd: TRANSACTION UNDO
+[2020.02.25-18.41.25:528][599]LogEditorTransaction: Undo Delete Actors
+[2020.02.25-18.41.38:988][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallMedium)
+[2020.02.25-18.44.21:961][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallMedium)
+[2020.02.25-18.44.27:893][ 93]Cmd: EDIT COPY
+[2020.02.25-18.44.28:397][106]Cmd: EDIT PASTE
+[2020.02.25-18.44.52:383][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallMedium2)
+[2020.02.25-18.44.53:081][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallMedium2)
+[2020.02.25-18.44.53:943][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallMedium)
+[2020.02.25-18.44.56:461][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallMedium)
+[2020.02.25-18.44.57:146][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallMedium2)
+[2020.02.25-18.45.05:203][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallMedium2)
+[2020.02.25-18.45.05:758][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2020.02.25-18.45.07:547][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2020.02.25-18.45.14:035][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallMedium)
+[2020.02.25-18.45.25:218][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallMedium2)
+[2020.02.25-18.45.31:398][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallMedium2)
+[2020.02.25-18.45.32:016][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallMedium)
+[2020.02.25-18.45.32:450][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2020.02.25-18.45.34:625][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallMedium2)
+[2020.02.25-18.45.38:959][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallMedium2)
+[2020.02.25-18.45.43:293][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallMedium2)
+[2020.02.25-18.45.44:015][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2020.02.25-18.45.52:365][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallMedium2)
+[2020.02.25-18.45.53:575][146]Cmd: EDIT COPY
+[2020.02.25-18.45.53:986][157]Cmd: EDIT PASTE
+[2020.02.25-18.46.04:573][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2020.02.25-18.46.18:256][748]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door)
+[2020.02.25-18.46.19:469][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2020.02.25-18.46.26:052][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.02.25-18.46.26:229][931]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMapBBF3FDBA4F45EE02C30E4BAA6AAF0AEB.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.02.25-18.46.26:285][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.02.25-18.46.26:390][931]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltDataF514ECDE45F72927DCB275B31EE5EE70.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.02.25-18.46.26:416][931]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.25-18.46.26:416][931]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.02.25-18.46.26:416][931]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.02.25-18.46.46:359][428]Cmd: EDIT COPY
+[2020.02.25-18.46.46:873][441]Cmd: EDIT PASTE
+[2020.02.25-18.47.19:624][137]LogSlate: Took 0.001888 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.25-18.47.26:594][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.02.25-18.47.26:740][261]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMap509C92174EB386AE27022FB06DA9BFB6.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.02.25-18.47.26:775][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.02.25-18.47.26:862][261]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData5B6365C24087DE4B67C707A14538BF28.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.02.25-18.47.26:886][261]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.25-18.47.26:886][261]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.02.25-18.47.26:886][261]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.02.25-18.47.37:698][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2020.02.25-18.47.38:878][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2020.02.25-18.47.39:814][581]Cmd: DELETE
+[2020.02.25-18.47.39:814][581]Cmd: ACTOR DELETE
+[2020.02.25-18.47.39:816][581]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.47.39:855][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.02.25-18.47.39:856][581]LogEditorActor: Deleted 1 Actors (0.042 secs)
