@@ -1471,3 +1471,197 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-17.56.17:117][506]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMap_Auto3A0FFB95441F7BAEFA56E63A76602AD17.tmp' to '../../../../Desktop/ewew/west/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
 [2020.02.25-17.56.17:145][506]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.499
 [2020.02.25-17.56.17:145][506]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.499
+[2020.02.25-18.21.36:039][ 33]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_BalconyDoor)
+[2020.02.25-18.21.36:861][ 50]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WindowWall)
+[2020.02.25-18.21.38:360][ 82]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_WindowWall)
+[2020.02.25-18.21.47:666][213]LogSlate: Window 'Create Merged Actor' being destroyed
+[2020.02.25-18.21.47:976][213]LogStaticMesh: Building static mesh SM_MERGED_SM_BalconyDoor_31...
+[2020.02.25-18.21.48:078][213]LogStaticMesh: Built static mesh [0.10s] /Game/SM_MERGED_SM_BalconyDoor_31.SM_MERGED_SM_BalconyDoor_31
+[2020.02.25-18.21.50:416][261]LogSlate: Window 'Merge Actors' being destroyed
+[2020.02.25-18.21.50:460][261]LogSlate: Window 'Merge Actors' being destroyed
+[2020.02.25-18.21.56:106][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_MERGED_SM_BalconyDoor_31" FILE="../../../../Desktop/ewew/west/Content/SM_MERGED_SM_BalconyDoor_31.uasset" SILENT=true
+[2020.02.25-18.21.56:149][378]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/SM_MERGED_SM_BalconyDoor_31E171FC33442877D6986794BE07646859.tmp' to '../../../../Desktop/ewew/west/Content/SM_MERGED_SM_BalconyDoor_31.uasset'
+[2020.02.25-18.21.56:166][378]AssetCheck: New page: Asset Save: SM_MERGED_SM_BalconyDoor_31
+[2020.02.25-18.21.56:167][378]LogContentValidation: Display: Validating StaticMesh /Game/SM_MERGED_SM_BalconyDoor_31.SM_MERGED_SM_BalconyDoor_31
+[2020.02.25-18.22.45:065][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_MERGED_SM_BalconyDoor_31" FILE="../../../../Desktop/ewew/west/Content/Meshes/SM_MERGED_SM_BalconyDoor_31.uasset" SILENT=true
+[2020.02.25-18.22.45:087][580]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/SM_MERGED_SM_BalconyDoor_314A27D2834F719E1F824617A631791E33.tmp' to '../../../../Desktop/ewew/west/Content/Meshes/SM_MERGED_SM_BalconyDoor_31.uasset'
+[2020.02.25-18.22.45:282][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.02.25-18.22.45:314][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.02.25-18.22.45:339][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.02.25-18.22.45:388][580]AssetCheck: New page: Asset Save: SM_MERGED_SM_BalconyDoor_31
+[2020.02.25-18.22.45:388][580]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/SM_MERGED_SM_BalconyDoor_31.SM_MERGED_SM_BalconyDoor_31
+[2020.02.25-18.22.49:963][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Building/SM_MERGED_SM_BalconyDoor_31" FILE="../../../../Desktop/ewew/west/Content/Meshes/Building/SM_MERGED_SM_BalconyDoor_31.uasset" SILENT=true
+[2020.02.25-18.22.49:984][678]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/SM_MERGED_SM_BalconyDoor_3175F7FDAA499A0CB7AAFFE099088692C9.tmp' to '../../../../Desktop/ewew/west/Content/Meshes/Building/SM_MERGED_SM_BalconyDoor_31.uasset'
+[2020.02.25-18.22.50:114][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.25-18.22.50:143][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.02.25-18.22.50:165][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.02.25-18.22.50:193][678]AssetCheck: New page: Asset Save: SM_MERGED_SM_BalconyDoor_31
+[2020.02.25-18.22.50:193][678]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Building/SM_MERGED_SM_BalconyDoor_31.SM_MERGED_SM_BalconyDoor_31
+[2020.02.25-18.22.55:348][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Building/ModPack/SM_MERGED_SM_BalconyDoor_31" FILE="../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_MERGED_SM_BalconyDoor_31.uasset" SILENT=true
+[2020.02.25-18.22.55:370][779]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/SM_MERGED_SM_BalconyDoor_31B14606A24B09F90CCF9DBE8A006A8826.tmp' to '../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_MERGED_SM_BalconyDoor_31.uasset'
+[2020.02.25-18.22.55:497][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.25-18.22.55:534][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.02.25-18.22.55:557][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.02.25-18.22.55:586][779]AssetCheck: New page: Asset Save: SM_MERGED_SM_BalconyDoor_31
+[2020.02.25-18.22.55:586][779]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Building/ModPack/SM_MERGED_SM_BalconyDoor_31.SM_MERGED_SM_BalconyDoor_31
+[2020.02.25-18.23.02:749][923]LogLinker: Warning: While loading '../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_Wall.uasset' failed to load '/Game/Materials/MAT01/Wood_01': Can't find file.
+[2020.02.25-18.23.02:749][923]LogLinker: Warning: While loading '../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_Wall.uasset' failed to load '/Game/Materials/MAT01/Wood_01': Can't find file.
+[2020.02.25-18.23.02:749][923]LogLinker: Warning: While loading '../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_Wall.uasset' failed to load '/Game/Materials/MAT01/Wood_01': Can't find file.
+[2020.02.25-18.23.02:749][923]LogLinker: Warning: While loading '../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_Wall.uasset' failed to load '/Game/Materials/MAT01/Wood_01': Can't find file.
+[2020.02.25-18.23.02:750][923]LogLinker: Warning: While loading '../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_Wall.uasset' failed to load '/Game/Materials/MAT01/Wood_01': Can't find file.
+[2020.02.25-18.23.02:750][923]LoadErrors: Failed to load /Game/Materials/MAT01/Wood_01.Wood_01 Referenced by SM_Wall
+[2020.02.25-18.23.02:750][923]LogLinker: Warning: While loading '../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_Wall.uasset' failed to load '/Game/Materials/MAT01/Wood_01': Can't find file.
+[2020.02.25-18.23.02:751][923]LogLinker: Warning: While loading '../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_Wall.uasset' failed to load '/Game/Materials/MAT01/Wood_01': Can't find file.
+[2020.02.25-18.23.02:751][923]LogLinker: Warning: While loading '../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_Wall.uasset' failed to load '/Game/Materials/MAT01/Wood_01': Can't find file.
+[2020.02.25-18.23.03:062][925]LogActorFactory: Actor Factory created SM_Wall
+[2020.02.25-18.23.08:455][ 55]LogActorFactory: Actor Factory created SM_Wall
+[2020.02.25-18.23.59:408][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowWall)
+[2020.02.25-18.24.02:279][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall)
+[2020.02.25-18.24.16:781][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall)
+[2020.02.25-18.24.18:251][671]Cmd: EDIT COPY
+[2020.02.25-18.24.18:695][679]Cmd: EDIT PASTE
+[2020.02.25-18.24.25:076][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall)
+[2020.02.25-18.24.26:380][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall2)
+[2020.02.25-18.24.30:142][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall)
+[2020.02.25-18.24.31:906][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall2)
+[2020.02.25-18.24.39:347][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall2)
+[2020.02.25-18.24.40:260][217]Cmd: EDIT COPY
+[2020.02.25-18.24.40:692][228]Cmd: EDIT PASTE
+[2020.02.25-18.24.58:974][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof)
+[2020.02.25-18.25.10:220][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof)
+[2020.02.25-18.25.10:934][994]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.25-18.25.31:579][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall3)
+[2020.02.25-18.25.34:034][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall3)
+[2020.02.25-18.25.35:313][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor)
+[2020.02.25-18.25.45:610][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall)
+[2020.02.25-18.25.54:107][ 79]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall2)
+[2020.02.25-18.25.54:910][ 98]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall3)
+[2020.02.25-18.26.05:163][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowWall)
+[2020.02.25-18.26.09:447][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor)
+[2020.02.25-18.26.47:930][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2020.02.25-18.26.56:551][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scaffolding)
+[2020.02.25-18.27.00:253][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2020.02.25-18.27.04:105][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof)
+[2020.02.25-18.27.08:371][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.02.25-18.27.08:678][751]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMapA785C1464CBC834FF8D4C199D62A5078.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.02.25-18.27.08:764][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.02.25-18.27.08:943][751]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltDataB58EB942447EDD9141BFAAB43CB12413.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.02.25-18.27.08:964][751]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.25-18.27.08:964][751]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.02.25-18.27.08:964][751]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.02.25-18.27.13:571][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2020.02.25-18.27.17:337][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.02.25-18.27.17:475][916]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMap0AC556454C18097B464E5696DFA9A5E2.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.02.25-18.27.17:512][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.02.25-18.27.17:601][916]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData5B78062A40B97D15692714B08CCFF570.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.02.25-18.27.17:630][916]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.25-18.27.17:631][916]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.02.25-18.27.17:631][916]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.02.25-18.27.27:278][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof)
+[2020.02.25-18.27.36:827][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall3)
+[2020.02.25-18.27.38:666][428]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall2)
+[2020.02.25-18.27.39:412][445]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall)
+[2020.02.25-18.27.40:487][471]Cmd: EDIT COPY
+[2020.02.25-18.27.40:935][482]Cmd: EDIT PASTE
+[2020.02.25-18.28.21:563][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall6)
+[2020.02.25-18.28.29:702][654]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall5)
+[2020.02.25-18.28.30:337][668]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall4)
+[2020.02.25-18.28.32:338][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PR_desert_U2)
+[2020.02.25-18.28.33:664][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall4)
+[2020.02.25-18.28.35:264][779]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall5)
+[2020.02.25-18.28.36:437][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall5)
+[2020.02.25-18.28.37:146][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall6)
+[2020.02.25-18.28.38:374][851]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall5)
+[2020.02.25-18.28.39:098][866]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall4)
+[2020.02.25-18.29.16:318][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2020.02.25-18.29.35:236][189]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall6)
+[2020.02.25-18.29.36:854][227]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall5)
+[2020.02.25-18.29.37:744][246]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall4)
+[2020.02.25-18.29.38:868][272]Cmd: EDIT COPY
+[2020.02.25-18.29.39:959][298]Cmd: EDIT PASTE
+[2020.02.25-18.29.52:312][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2020.02.25-18.29.53:328][598]Cmd: DELETE
+[2020.02.25-18.29.53:328][598]Cmd: ACTOR DELETE
+[2020.02.25-18.29.53:334][598]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.29.53:384][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.02.25-18.29.53:385][598]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2020.02.25-18.29.55:078][641]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall9)
+[2020.02.25-18.29.55:909][658]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall8)
+[2020.02.25-18.29.56:681][676]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall7)
+[2020.02.25-18.30.31:841][495]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.02.25-18.30.38:931][674]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall7)
+[2020.02.25-18.30.39:922][696]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall8)
+[2020.02.25-18.30.46:485][854]Cmd: TRANSACTION UNDO
+[2020.02.25-18.30.46:485][854]LogEditorTransaction: Undo Move Actors
+[2020.02.25-18.30.48:770][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall9)
+[2020.02.25-18.30.50:153][939]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall8)
+[2020.02.25-18.30.51:160][962]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall7)
+[2020.02.25-18.33.39:867][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof)
+[2020.02.25-18.34.06:716][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall7)
+[2020.02.25-18.34.07:613][770]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall8)
+[2020.02.25-18.34.08:217][783]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall9)
+[2020.02.25-18.34.09:209][808]Cmd: EDIT COPY
+[2020.02.25-18.34.09:718][821]Cmd: EDIT PASTE
+[2020.02.25-18.34.55:835][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor)
+[2020.02.25-18.35.01:035][ 14]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.25-18.35.12:163][269]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall10)
+[2020.02.25-18.35.12:844][283]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall11)
+[2020.02.25-18.35.13:979][306]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall12)
+[2020.02.25-18.35.53:394][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall10)
+[2020.02.25-18.36.04:085][453]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall11)
+[2020.02.25-18.36.04:682][466]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall12)
+[2020.02.25-18.36.25:661][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowWall)
+[2020.02.25-18.36.31:053][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PR_desert_U)
+[2020.02.25-18.36.32:349][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor)
+[2020.02.25-18.36.33:665][146]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WindowWall)
+[2020.02.25-18.36.48:210][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall2)
+[2020.02.25-18.36.50:195][534]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall)
+[2020.02.25-18.36.51:083][553]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall3)
+[2020.02.25-18.36.58:573][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall5)
+[2020.02.25-18.37.00:098][759]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall4)
+[2020.02.25-18.37.01:078][781]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall6)
+[2020.02.25-18.37.14:473][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.02.25-18.37.14:665][106]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMapB9D7C93E4E4E5C7ADFE9B79EDAE5EDEB.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.02.25-18.37.14:721][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.02.25-18.37.14:824][106]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData8B00F7C44BFE3F1B35C0ADBB57D6E6ED.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.02.25-18.37.14:850][106]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.25-18.37.14:850][106]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.02.25-18.37.14:850][106]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.02.25-18.37.23:184][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowWall)
+[2020.02.25-18.37.24:768][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowWall)
+[2020.02.25-18.37.25:523][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2020.02.25-18.37.30:098][472]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall10)
+[2020.02.25-18.37.31:238][497]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall11)
+[2020.02.25-18.37.32:783][534]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall12)
+[2020.02.25-18.37.52:050][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2020.02.25-18.38.00:077][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2020.02.25-18.38.09:137][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof)
+[2020.02.25-18.38.54:639][438]LogActorFactory: Actor Factory created SM_Pillar
+[2020.02.25-18.38.58:980][548]LogActorFactory: Actor Factory created SM_Pillar
+[2020.02.25-18.38.59:911][573]Cmd: DELETE
+[2020.02.25-18.38.59:911][573]Cmd: ACTOR DELETE
+[2020.02.25-18.38.59:921][573]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.38.59:986][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.02.25-18.38.59:988][573]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2020.02.25-18.39.08:040][764]LogLinker: Warning: While loading '../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_WallMedium.uasset' failed to load '/Game/Materials/MAT01/Wood_01': Can't find file.
+[2020.02.25-18.39.08:041][764]LogLinker: Warning: While loading '../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_WallMedium.uasset' failed to load '/Game/Materials/MAT01/Wood_01': Can't find file.
+[2020.02.25-18.39.08:041][764]LogLinker: Warning: While loading '../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_WallMedium.uasset' failed to load '/Game/Materials/MAT01/Wood_01': Can't find file.
+[2020.02.25-18.39.08:041][764]LogLinker: Warning: While loading '../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_WallMedium.uasset' failed to load '/Game/Materials/MAT01/Wood_01': Can't find file.
+[2020.02.25-18.39.08:042][764]LogLinker: Warning: While loading '../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_WallMedium.uasset' failed to load '/Game/Materials/MAT01/Wood_01': Can't find file.
+[2020.02.25-18.39.08:042][764]LoadErrors: Failed to load /Game/Materials/MAT01/Wood_01.Wood_01 Referenced by SM_WallMedium
+[2020.02.25-18.39.08:043][764]LogLinker: Warning: While loading '../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_WallMedium.uasset' failed to load '/Game/Materials/MAT01/Wood_01': Can't find file.
+[2020.02.25-18.39.08:043][764]LogLinker: Warning: While loading '../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_WallMedium.uasset' failed to load '/Game/Materials/MAT01/Wood_01': Can't find file.
+[2020.02.25-18.39.08:044][764]LogLinker: Warning: While loading '../../../../Desktop/ewew/west/Content/Meshes/Building/ModPack/SM_WallMedium.uasset' failed to load '/Game/Materials/MAT01/Wood_01': Can't find file.
+[2020.02.25-18.39.08:149][764]LogActorFactory: Actor Factory created SM_WallMedium
+[2020.02.25-18.39.10:388][817]LogActorFactory: Actor Factory created SM_WallMedium
+[2020.02.25-18.39.34:906][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall)
+[2020.02.25-18.39.36:841][461]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall2)
+[2020.02.25-18.39.37:591][477]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall3)
+[2020.02.25-18.39.42:965][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall11)
+[2020.02.25-18.39.48:410][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.02.25-18.39.48:553][735]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMap529DA9B84BC005D0AA86DA806133A645.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.02.25-18.39.48:596][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.02.25-18.39.48:683][735]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData5B3C8EF54BC7C64BE3DEB694F76886C9.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.02.25-18.39.48:710][735]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.25-18.39.48:710][735]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.02.25-18.39.48:710][735]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
