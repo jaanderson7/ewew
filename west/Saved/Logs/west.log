@@ -1941,3 +1941,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-19.02.18:648][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.02.25-19.02.18:651][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
 [2020.02.25-19.02.18:668][649]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.02.25-19.12.01:550][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.02.25-19.12.01:723][183]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMap74A7B51148330A2E3F0251887083BB55.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.02.25-19.12.01:778][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.02.25-19.12.01:887][183]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData353CE9D44AED0D6E23D1A28EC3D1501A.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.02.25-19.12.01:914][183]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.25-19.12.01:914][183]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.02.25-19.12.01:914][183]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
