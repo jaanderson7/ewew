@@ -32997,3 +32997,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-17.37.21:965][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.03.05-17.37.21:968][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
 [2020.03.05-17.37.21:984][866]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2020.03.05-17.38.12:335][319]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.05-17.38.12:341][319]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.05-17.38.13:250][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Maps/MainMenu" FILE="../../../../Desktop/ewew/pop/Content/2DSideScrollerBP/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.05-17.38.13:285][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.03.05-17.38.13:500][418]LogSavePackage: Moving '../../../../Desktop/ewew/pop/Saved/MainMenu506B157B4CC66553233F499CB9E3E7DB.tmp' to '../../../../Desktop/ewew/pop/Content/2DSideScrollerBP/Maps/MainMenu.umap'
+[2020.03.05-17.38.13:538][418]AssetCheck: New page: Asset Save: MainMenu
+[2020.03.05-17.38.13:538][418]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/MainMenu.MainMenu
