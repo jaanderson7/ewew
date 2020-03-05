@@ -1036,3 +1036,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-19.18.08:798][596]AssetCheck: New page: Asset Save: multiple assets
 [2020.03.05-19.18.08:798][596]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.03.05-19.18.08:798][596]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.05-19.28.55:571][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.03.05-19.28.55:770][165]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMapC2839AD04A7D08DFA4A911819E25866F.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.05-19.28.55:825][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.03.05-19.28.55:922][165]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltDataF331B3F6491B510940E1C5B2CF481670.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.05-19.28.55:947][165]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.05-19.28.55:947][165]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.05-19.28.55:947][165]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
