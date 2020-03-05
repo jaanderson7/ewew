@@ -887,3 +887,38 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-19.06.35:740][819]AssetCheck: New page: Asset Save: multiple assets
 [2020.03.05-19.06.35:740][819]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.03.05-19.06.35:740][819]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.05-19.08.52:635][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor7)
+[2020.03.05-19.08.53:743][334]Cmd: DELETE
+[2020.03.05-19.08.53:743][334]Cmd: ACTOR DELETE
+[2020.03.05-19.08.53:746][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.05-19.08.53:778][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.03.05-19.08.53:780][334]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.03.05-19.08.55:982][388]LogActorFactory: Actor Factory created SM_Door
+[2020.03.05-19.09.02:324][589]LogActorFactory: Actor Factory created SM_Door
+[2020.03.05-19.10.01:141][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor5)
+[2020.03.05-19.10.02:045][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor6)
+[2020.03.05-19.10.05:458][198]Cmd: EDIT COPY
+[2020.03.05-19.10.06:289][224]Cmd: EDIT PASTE
+[2020.03.05-19.10.51:467][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2020.03.05-19.10.53:570][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2020.03.05-19.10.59:595][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor7)
+[2020.03.05-19.11.02:264][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2020.03.05-19.11.26:244][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2020.03.05-19.11.29:156][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2020.03.05-19.11.46:848][705]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.03.05-19.11.57:471][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor27)
+[2020.03.05-19.12.18:621][664]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.03.05-19.12.24:630][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor27)
+[2020.03.05-19.12.28:746][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor27)
+[2020.03.05-19.12.37:824][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor27)
+[2020.03.05-19.12.40:580][280]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.03.05-19.12.43:319][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor27)
+[2020.03.05-19.12.46:465][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor26)
+[2020.03.05-19.12.49:461][515]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.03.05-19.12.55:104][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.03.05-19.12.55:291][673]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMap2CE7C27F440046F0571D6E91812EB655.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.05-19.12.55:346][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.03.05-19.12.55:441][673]LogSavePackage: Moving '../../../../Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData76747F214BC25FF3CB5D6AAE1EC46A8C.tmp' to '../../../../Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.05-19.12.55:465][673]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.05-19.12.55:465][673]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.05-19.12.55:465][673]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
