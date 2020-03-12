@@ -1829,3 +1829,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.12-18.37.02:352][283]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.03.12-18.37.02:352][283]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2020.03.12-18.37.16:481][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Barrel)
+[2020.03.12-18.38.18:561][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pillar)
+[2020.03.12-18.38.46:610][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Barrel)
+[2020.03.12-18.45.04:591][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.03.12-18.45.04:735][496]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap1FC1D23E4A86A1C07E7F1C95D61F154C.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.12-18.45.04:874][496]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData05E854854AF50FA7F3F9E28AC07A2E26.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.12-18.45.04:891][496]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-18.45.04:891][496]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.12-18.45.04:891][496]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.12-18.47.03:371][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.03.12-18.47.03:499][701]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap90DA6D7C443C8325CCCF2EB752AD88BB.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.12-18.47.03:625][701]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltDataCE425632446A5A140F71DD83F243DF86.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.12-18.47.03:643][701]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-18.47.03:643][701]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.12-18.47.03:643][701]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
