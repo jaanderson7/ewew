@@ -1237,3 +1237,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.12-17.20.11:130][ 38]AssetCheck: New page: Asset Save: multiple assets
 [2020.03.12-17.20.11:130][ 38]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.03.12-17.20.11:130][ 38]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.12-17.24.23:448][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.03.12-17.24.23:582][771]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap4B3152C34BFA675FE81243A1591CC776.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.12-17.24.23:651][771]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData8E5A5C384B30AA8AAA3E2181FC380AD5.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.12-17.24.23:670][771]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-17.24.23:670][771]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.12-17.24.23:670][771]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.12-17.24.24:109][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor5)
+[2020.03.12-17.34.23:809][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.03.12-17.34.23:812][924]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.027
+[2020.03.12-17.34.23:812][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Materials/Chair/TableProps_MAT07_BaseColor_Mat] ([1] browsable assets)...
+[2020.03.12-17.34.23:844][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/Materials/Chair/TableProps_MAT07_BaseColor_Mat.TableProps_MAT07_BaseColor_Mat]
+[2020.03.12-17.34.23:844][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Materials/Chair/TableProps_MAT07_BaseColor_Mat]
+[2020.03.12-17.34.23:859][924]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/TableProps_MAT07_BaseColor_Mat_A104DB0134432896ED781DCAAE0DFA95D.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/Autosaves/Game/Meshes/Materials/Chair/TableProps_MAT07_BaseColor_Mat_Auto1.uasset'
+[2020.03.12-17.34.23:867][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Props/Crate/SM_Crate_lambert2_BaseColor_Mat] ([1] browsable assets)...
+[2020.03.12-17.34.23:896][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/Props/Crate/SM_Crate_lambert2_BaseColor_Mat.SM_Crate_lambert2_BaseColor_Mat]
+[2020.03.12-17.34.23:896][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Props/Crate/SM_Crate_lambert2_BaseColor_Mat]
+[2020.03.12-17.34.23:911][924]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/SM_Crate_lambert2_BaseColor_Mat_168CB833479080AB5FB3818658A8C472.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/Autosaves/Game/Meshes/Props/Crate/SM_Crate_lambert2_BaseColor_Mat_Auto1.uasset'
+[2020.03.12-17.34.23:920][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Props/Knife/SM_Knife_lambert1_BaseColor_Mat] ([1] browsable assets)...
+[2020.03.12-17.34.23:949][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/Props/Knife/SM_Knife_lambert1_BaseColor_Mat.SM_Knife_lambert1_BaseColor_Mat]
+[2020.03.12-17.34.23:949][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Props/Knife/SM_Knife_lambert1_BaseColor_Mat]
+[2020.03.12-17.34.23:968][924]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/SM_Knife_lambert1_BaseColor_Mat_EA6FF9CE41463EED151668AD89A4660C.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/Autosaves/Game/Meshes/Props/Knife/SM_Knife_lambert1_BaseColor_Mat_Auto1.uasset'
+[2020.03.12-17.34.23:982][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Props/WInchester/SM_Winchester_Metal_BaseColor_Mat] ([1] browsable assets)...
+[2020.03.12-17.34.23:994][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/Props/WInchester/SM_Winchester_Metal_BaseColor_Mat.SM_Winchester_Metal_BaseColor_Mat]
+[2020.03.12-17.34.23:994][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Props/WInchester/SM_Winchester_Metal_BaseColor_Mat]
+[2020.03.12-17.34.24:015][924]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/SM_Winchester_Metal_BaseColor_MaBE2974EB4D114556DC7EAE8F8487526C.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/Autosaves/Game/Meshes/Props/WInchester/SM_Winchester_Metal_BaseColor_Mat_Auto1.uasset'
+[2020.03.12-17.34.24:026][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Props/WInchester/SM_Winchester_Wood_BaseColor_Mat] ([1] browsable assets)...
+[2020.03.12-17.34.24:035][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/Props/WInchester/SM_Winchester_Wood_BaseColor_Mat.SM_Winchester_Wood_BaseColor_Mat]
+[2020.03.12-17.34.24:035][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Props/WInchester/SM_Winchester_Wood_BaseColor_Mat]
+[2020.03.12-17.34.24:049][924]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/SM_Winchester_Wood_BaseColor_Mat51A310154171F708033DAA9103FF95CB.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/Autosaves/Game/Meshes/Props/WInchester/SM_Winchester_Wood_BaseColor_Mat_Auto1.uasset'
+[2020.03.12-17.34.24:058][924]LogFileHelpers: Auto-saving content packages took 0.246
