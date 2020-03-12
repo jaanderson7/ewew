@@ -650,3 +650,229 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.12-16.45.49:003][858]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.03.12-16.45.49:003][858]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2020.03.12-16.45.51:876][139]LogSlate: Took 0.003131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.12-16.46.28:096][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2020.03.12-16.46.34:711][288]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.03.12-16.47.15:797][893]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor6)
+[2020.03.12-16.47.16:708][998]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor5)
+[2020.03.12-16.47.21:114][486]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor7)
+[2020.03.12-16.47.22:180][600]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door)
+[2020.03.12-16.47.25:475][950]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor7)
+[2020.03.12-16.47.27:193][146]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4)
+[2020.03.12-16.48.04:329][314]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor3)
+[2020.03.12-16.48.09:440][880]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2)
+[2020.03.12-16.48.10:389][984]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor12)
+[2020.03.12-16.48.11:371][ 92]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor13)
+[2020.03.12-16.48.14:069][391]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor15)
+[2020.03.12-16.48.15:045][498]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor16)
+[2020.03.12-16.48.17:977][798]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor17)
+[2020.03.12-16.48.19:964][ 15]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor18)
+[2020.03.12-16.48.20:575][ 80]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor19)
+[2020.03.12-16.48.25:489][578]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor20)
+[2020.03.12-16.48.26:865][720]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor21)
+[2020.03.12-16.48.28:081][845]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor22)
+[2020.03.12-16.48.29:560][  2]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor23)
+[2020.03.12-16.48.33:273][402]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor24)
+[2020.03.12-16.48.33:934][473]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor25)
+[2020.03.12-16.48.36:017][718]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor26)
+[2020.03.12-16.48.37:981][941]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor27)
+[2020.03.12-16.48.39:090][ 56]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor8)
+[2020.03.12-16.48.44:301][588]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor11)
+[2020.03.12-16.48.47:924][983]Cmd: EDIT COPY
+[2020.03.12-16.48.48:809][ 77]Cmd: EDIT PASTE
+[2020.03.12-16.48.58:539][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor20)
+[2020.03.12-16.49.13:634][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.03.12-16.49.13:761][697]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMapF97656934A32333D15C0B2A7E12683AC.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.12-16.49.13:831][697]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltDataDB02B1A3424CC5302D47D09D9C4C7CCC.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.12-16.49.13:848][697]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-16.49.13:848][697]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.12-16.49.13:848][697]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.12-16.49.17:328][ 55]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.12-16.49.17:335][ 55]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.12-16.49.17:335][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.12-16.49.17:335][ 55]PIE: New page: PIE session: FirstPersonExampleMap (Mar 12, 2020, 6:49:17 AM)
+[2020.03.12-16.49.17:336][ 55]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.12-16.49.17:337][ 55]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.03.12-16.49.17:337][ 55]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.12-16.49.17:353][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015902s)
+[2020.03.12-16.49.17:354][ 55]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.12-16.49.17:354][ 55]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2020.03.12-16.49.17:354][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016911s)
+[2020.03.12-16.49.17:378][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.03.12-16.49.17:379][ 55]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.12-16.49.17:379][ 55]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.12-16.49.17:379][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.12-16.49.17:379][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.12-16.49.17:379][ 55]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.12-16.49.17:379][ 55]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.12-16.49.17:379][ 55]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.12-16.49.17:379][ 55]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.12-16.49.17:380][ 55]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.12-16.49.17:380][ 55]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.12-16.49.17:387][ 55]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.12-16.49.17:387][ 55]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.03.12-16.49.17:387][ 55]LogAudioMixer: Display: Is Default: Yes
+[2020.03.12-16.49.17:387][ 55]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.12-16.49.17:387][ 55]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.12-16.49.17:387][ 55]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.12-16.49.17:387][ 55]LogAudioMixer: Display: Channel Order:
+[2020.03.12-16.49.17:387][ 55]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.12-16.49.17:387][ 55]LogAudioMixer: Display: 1: FrontRight
+[2020.03.12-16.49.17:453][ 55]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.03.12-16.49.17:454][ 55]LogInit: FAudioDevice initialized.
+[2020.03.12-16.49.17:463][ 55]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.12-16.49.17:467][ 55]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.12-11.49.17
+[2020.03.12-16.49.17:467][ 55]LogWorld: Bringing up level for play took: 0.001573
+[2020.03.12-16.49.17:467][ 55]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.03.12-16.49.17:469][ 55]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.03.12-16.49.17:469][ 55]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2020.03.12-16.49.17:470][ 55]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.26
+[2020.03.12-16.49.17:470][ 55]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.12-16.49.31:426][706]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.12-16.49.31:426][706]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.12-16.49.31:427][706]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.12-16.49.31:427][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-16.49.31:427][706]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.12-16.49.31:427][706]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.12-16.49.31:427][706]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-16.49.31:427][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.12-16.49.31:437][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.12-16.49.31:437][706]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.12-16.49.31:440][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.12-16.49.31:463][706]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.12-16.49.31:467][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-16.49.31:469][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.03.12-16.49.31:531][711]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.03.12-16.49.32:423][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor14)
+[2020.03.12-16.49.34:874][ 85]Cmd: EDIT COPY
+[2020.03.12-16.49.35:593][167]Cmd: EDIT PASTE
+[2020.03.12-16.49.41:322][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor20)
+[2020.03.12-16.49.42:617][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.03.12-16.49.42:725][905]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap23A9DF64400696FCD1708FB26A942846.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.12-16.49.42:789][905]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltDataD90D97384E47E6C3C6F3ADA53ED140EB.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.12-16.49.42:808][905]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-16.49.42:808][905]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.12-16.49.42:808][905]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.12-16.49.50:872][716]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.03.12-16.49.56:883][349]Cmd: EDIT COPY
+[2020.03.12-16.49.57:340][396]Cmd: EDIT PASTE
+[2020.03.12-16.50.04:749][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor9)
+[2020.03.12-16.50.07:798][357]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor10)
+[2020.03.12-16.50.09:018][476]Cmd: EDIT COPY
+[2020.03.12-16.50.09:536][526]Cmd: EDIT PASTE
+[2020.03.12-16.50.13:502][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor10)
+[2020.03.12-16.50.20:942][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor50)
+[2020.03.12-16.50.36:121][ 95]Cmd: EDIT COPY
+[2020.03.12-16.50.36:570][140]Cmd: EDIT PASTE
+[2020.03.12-16.51.01:457][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor7)
+[2020.03.12-16.51.04:472][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor54)
+[2020.03.12-16.51.11:353][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor53)
+[2020.03.12-16.51.17:320][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor50)
+[2020.03.12-16.51.23:401][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor7)
+[2020.03.12-16.51.24:945][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.03.12-16.51.25:054][549]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMapFFE793F94E32A9775A70B5AF25842C48.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.12-16.51.25:116][549]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData536FE699419149FFE3C02A87D2D9F86C.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.12-16.51.25:132][549]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-16.51.25:132][549]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.12-16.51.25:132][549]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.12-16.51.31:550][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor39)
+[2020.03.12-16.51.32:668][279]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor40)
+[2020.03.12-16.51.34:303][445]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor38)
+[2020.03.12-16.51.39:915][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor16)
+[2020.03.12-16.51.43:440][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor18)
+[2020.03.12-16.51.51:457][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor16)
+[2020.03.12-16.52.14:630][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.03.12-16.52.14:738][191]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMapCEB08A4B43A071DA1822C3834DA25FD1.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.12-16.52.14:800][191]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData89D0ECDA4C645161DB4B20AFB20410CC.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.12-16.52.14:817][191]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-16.52.14:817][191]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.12-16.52.14:817][191]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.12-16.52.19:520][633]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.12-16.52.19:527][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.12-16.52.19:527][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.12-16.52.19:527][633]PIE: New page: PIE session: FirstPersonExampleMap (Mar 12, 2020, 6:52:19 AM)
+[2020.03.12-16.52.19:527][633]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.12-16.52.19:544][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016431s)
+[2020.03.12-16.52.19:545][633]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.12-16.52.19:545][633]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2020.03.12-16.52.19:545][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017380s)
+[2020.03.12-16.52.19:563][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.03.12-16.52.19:564][633]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.12-16.52.19:564][633]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.12-16.52.19:564][633]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.12-16.52.19:564][633]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.12-16.52.19:564][633]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.12-16.52.19:564][633]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.12-16.52.19:564][633]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.12-16.52.19:564][633]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.12-16.52.19:564][633]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.12-16.52.19:564][633]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.12-16.52.19:571][633]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.12-16.52.19:571][633]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.03.12-16.52.19:571][633]LogAudioMixer: Display: Is Default: Yes
+[2020.03.12-16.52.19:571][633]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.12-16.52.19:571][633]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.12-16.52.19:571][633]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.12-16.52.19:571][633]LogAudioMixer: Display: Channel Order:
+[2020.03.12-16.52.19:571][633]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.12-16.52.19:571][633]LogAudioMixer: Display: 1: FrontRight
+[2020.03.12-16.52.19:636][633]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.03.12-16.52.19:637][633]LogInit: FAudioDevice initialized.
+[2020.03.12-16.52.19:647][633]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.12-16.52.19:649][633]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.12-11.52.19
+[2020.03.12-16.52.19:649][633]LogWorld: Bringing up level for play took: 0.001369
+[2020.03.12-16.52.19:649][633]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.03.12-16.52.19:650][633]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.03.12-16.52.19:651][633]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.441
+[2020.03.12-16.52.19:651][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.12-16.53.41:548][534]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.12-16.53.41:548][534]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.12-16.53.41:549][534]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.12-16.53.41:549][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-16.53.41:549][534]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.12-16.53.41:549][534]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.12-16.53.41:549][534]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-16.53.41:549][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.12-16.53.41:573][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.12-16.53.41:573][534]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.12-16.53.41:576][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.12-16.53.41:599][534]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.12-16.53.41:602][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-16.53.41:604][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.03.12-16.53.41:652][537]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.03.12-16.54.03:123][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scaffolding)
+[2020.03.12-16.54.12:406][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scaffolding2)
+[2020.03.12-16.54.33:574][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.03.12-16.54.33:701][384]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap6B4703F640EA6CEDFBB2B08D7CCDC42B.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.12-16.54.33:771][384]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData1A2D55FA4A70ABFA23FF7F8A6AFF3E52.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.12-16.54.33:787][384]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-16.54.33:787][384]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.12-16.54.33:787][384]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.12-16.54.49:053][655]LogStaticMesh: Building static mesh SM_Pillar...
+[2020.03.12-16.54.49:088][655]LogStaticMesh: Built static mesh [0.03s] /Game/Meshes/Building/ModPack/SM_Pillar.SM_Pillar
+[2020.03.12-16.54.49:510][689]LogActorFactory: Actor Factory created SM_Pillar
+[2020.03.12-16.54.51:093][836]LogActorFactory: Actor Factory created SM_Pillar
+[2020.03.12-16.55.11:127][540]Cmd: EDIT COPY
+[2020.03.12-16.55.11:625][585]Cmd: EDIT PASTE
+[2020.03.12-16.55.44:716][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pillar)
+[2020.03.12-16.56.05:330][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.03.12-16.56.05:440][265]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap58C7E20B4F725AD6B3EC45AB07CAC20C.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.12-16.56.05:501][265]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltDataB621C41F4296926A2BA4959CAA63EEFD.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.12-16.56.05:518][265]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-16.56.05:518][265]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.12-16.56.05:518][265]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.12-17.00.13:951][807]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2020.03.12-17.00.17:811][159]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2020.03.12-17.00.23:735][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor27)
+[2020.03.12-17.00.38:731][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor46)
+[2020.03.12-17.00.39:468][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor24)
+[2020.03.12-17.00.41:265][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor46)
+[2020.03.12-17.00.48:014][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor24)
+[2020.03.12-17.00.50:046][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor24)
+[2020.03.12-17.00.50:822][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor23)
+[2020.03.12-17.00.51:593][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor24)
+[2020.03.12-17.00.57:020][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.03.12-17.00.57:147][132]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap85DF537949DE04CD81163CBCA64A5AC8.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.12-17.00.57:220][132]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData99864E0A428D54565B14B1BAF3CE45C0.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.12-17.00.57:235][132]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-17.00.57:235][132]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.12-17.00.57:235][132]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
