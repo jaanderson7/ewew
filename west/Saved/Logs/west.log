@@ -1267,3 +1267,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.12-17.34.24:035][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Props/WInchester/SM_Winchester_Wood_BaseColor_Mat]
 [2020.03.12-17.34.24:049][924]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/SM_Winchester_Wood_BaseColor_Mat51A310154171F708033DAA9103FF95CB.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/Autosaves/Game/Meshes/Props/WInchester/SM_Winchester_Wood_BaseColor_Mat_Auto1.uasset'
 [2020.03.12-17.34.24:058][924]LogFileHelpers: Auto-saving content packages took 0.246
+[2020.03.12-17.42.36:089][187]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.03.12-17.42.46:351][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scaffolding2)
+[2020.03.12-17.43.22:802][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor27)
+[2020.03.12-17.45.14:165][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.03.12-17.45.14:302][433]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_Auto27E842D154870D33FDBE960AA9BB2FBF9.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2020.03.12-17.45.14:313][433]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.171
+[2020.03.12-17.45.14:313][433]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.171
