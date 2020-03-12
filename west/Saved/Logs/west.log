@@ -1665,3 +1665,167 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.12-18.31.14:040][414]TextureStreamingBuild: Display: Compiling optional shaders took 10.499 seconds.
 [2020.03.12-18.31.14:069][414]LogLevel: Display: Export Material TexCoord Scales took 0.029 seconds.
 [2020.03.12-18.31.14:072][414]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.03.12-18.31.14:100][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.03.12-18.31.14:101][414]LightingResults: New page: Lighting Build - Mar 12, 2020, 8:31:14 AM
+[2020.03.12-18.31.14:133][414]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.12-18.31.14:198][414]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.12-18.31.14:211][414]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.12-18.31.14:732][414]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.12-18.31.14:732][414]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5932
+[2020.03.12-18.31.15:181][414]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.12-18.31.15:181][414]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.12-18.31.15:181][414]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.12-18.31.15:181][414]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.12-18.31.15:181][414]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.12-18.31.15:610][414]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.03.12-18.31.15:611][414]MapCheck: New page: FirstPersonExampleMap - Mar 12, 2020, 8:31:15 AM
+[2020.03.12-18.31.15:611][414]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.03.12-18.31.15:612][414]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.229ms to complete.
+[2020.03.12-18.31.15:613][414]LogEditorBuildUtils: Build time 0:12
+[2020.03.12-18.31.15:675][414]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.03.12-18.31.15:686][414]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.03.12-18.31.15:764][415]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Oak_Strp_01_Mat_Inst, compiling. 
+[2020.03.12-18.31.15:776][415]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Oak_Strp_01_Mat_Inst, compiling. 
+[2020.03.12-18.31.15:856][416]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.03.12-18.31.15:870][416]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.03.12-18.31.15:962][417]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SM_Crate_lambert2_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.15:974][417]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SM_Crate_lambert2_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.16:064][418]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SM_Knife_lambert1_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.16:076][418]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SM_Knife_lambert1_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.16:161][419]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SM_Table_lambert26_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.16:174][419]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SM_Table_lambert26_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.16:200][420]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Rug_Mat, compiling. 
+[2020.03.12-18.31.16:212][420]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Rug_Mat, compiling. 
+[2020.03.12-18.31.16:238][421]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SM_Winchester_Metal_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.16:249][421]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SM_Winchester_Metal_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.16:274][422]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SM_Winchester_Wood_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.16:285][422]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SM_Winchester_Wood_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.16:311][423]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2020.03.12-18.31.16:322][423]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2020.03.12-18.31.16:346][424]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SM_Floor_Wood_01_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.16:358][424]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SM_Floor_Wood_01_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.16:384][425]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer TableProps_MAT07_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.16:396][425]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer TableProps_MAT07_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.16:422][426]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Oak_Strp_01_Mat_Inst1, compiling. 
+[2020.03.12-18.31.16:434][426]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Oak_Strp_01_Mat_Inst1, compiling. 
+[2020.03.12-18.31.16:459][427]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.03.12-18.31.16:471][427]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.03.12-18.31.16:499][428]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Oak_Hrrngbn_01_Mat_Inst, compiling. 
+[2020.03.12-18.31.16:511][428]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Oak_Hrrngbn_01_Mat_Inst, compiling. 
+[2020.03.12-18.31.29:579][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor38)
+[2020.03.12-18.31.29:612][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor38)
+[2020.03.12-18.31.29:633][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor38)
+[2020.03.12-18.31.30:475][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.03.12-18.31.34:956][815]LightingResults: Warning: SM_Staircase Object has overlapping UVs.
+[2020.03.12-18.31.34:956][815]LightingResults: SM_Staircase Lightmap UV are overlapping by 85.1%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.12-18.31.34:974][817]Job is a success!
+[2020.03.12-18.31.35:119][818]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2020.03.12-18.31.35:119][818]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.03.12-18.31.35:119][818]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.03.12-18.31.35:119][818]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.12-18.31.35:119][818]LogVolumetricLightmapImport:          0: 1.9% covering 100.0% of volume
+[2020.03.12-18.31.35:119][818]LogVolumetricLightmapImport:          1: 7.4% covering 6.3% of volume
+[2020.03.12-18.31.35:119][818]LogVolumetricLightmapImport:          2: 90.7% covering 1.2% of volume
+[2020.03.12-18.31.35:119][818]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.12-18.31.35:119][818]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 54 bricks 	 100.0% (Persistent Level)
+[2020.03.12-18.31.35:550][818]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.03.12-18.31.35:550][818]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.03.12-18.31.35:550][818]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.03.12-18.31.35:550][818]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.03.12-18.31.35:550][818]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.03.12-18.31.35:550][818]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.03.12-18.31.35:550][818]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2020.03.12-18.31.35:550][818]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2020.03.12-18.31.35:666][818]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2020.03.12-18.31.35:666][818]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.03.12-18.31.35:666][818]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X256)
+[2020.03.12-18.31.35:666][818]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X512)
+[2020.03.12-18.31.35:666][818]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 87 meshes in 5 LightmapResourceClusters (17.4 Meshes per cluster).
+[2020.03.12-18.31.35:668][818]Lightmass on SWIWLC121-06: 4.57 sec total, 90 ms importing, 27 ms setup, 725 ms photons, 3.67 sec processing, 0 ms extra exporting [109/109 mappings]. Threads: 25.7 sec total, 15.1 sec processing.
+[2020.03.12-18.31.35:669][818]LogMaterial: Display: Material /Game/Meshes/Props/Crate/SM_Crate_lambert2_BaseColor_Mat.SM_Crate_lambert2_BaseColor_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.03.12-18.31.35:674][818]LogMaterial: Display: Missing cached shader map for material SM_Crate_lambert2_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.35:687][818]LogMaterial: Display: Material /Game/Meshes/Materials/Chair/TableProps_MAT07_BaseColor_Mat.TableProps_MAT07_BaseColor_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.03.12-18.31.35:690][818]LogMaterial: Display: Missing cached shader map for material TableProps_MAT07_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.35:703][818]LogMaterial: Display: Material /Game/Meshes/Props/Knife/SM_Knife_lambert1_BaseColor_Mat.SM_Knife_lambert1_BaseColor_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.03.12-18.31.35:706][818]LogMaterial: Display: Missing cached shader map for material SM_Knife_lambert1_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.35:719][818]LogMaterial: Display: Material /Game/Meshes/Materials/PokerTable/SM_Table_lambert26_BaseColor_Mat.SM_Table_lambert26_BaseColor_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.03.12-18.31.35:722][818]LogMaterial: Display: Missing cached shader map for material SM_Table_lambert26_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.35:736][818]LogMaterial: Display: Material /Game/Meshes/Props/WInchester/SM_Winchester_Wood_BaseColor_Mat.SM_Winchester_Wood_BaseColor_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.03.12-18.31.35:739][818]LogMaterial: Display: Missing cached shader map for material SM_Winchester_Wood_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.35:752][818]LogMaterial: Display: Material /Game/Meshes/Props/WInchester/SM_Winchester_Metal_BaseColor_Mat.SM_Winchester_Metal_BaseColor_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.03.12-18.31.35:755][818]LogMaterial: Display: Missing cached shader map for material SM_Winchester_Metal_BaseColor_Mat, compiling. 
+[2020.03.12-18.31.35:790][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.03.12-18.31.35:803][818]LogStaticLightingSystem: Illumination: 21.6 sec (396 ms encoding lightmaps, 76 ms encoding shadowmaps)
+[2020.03.12-18.31.35:803][818]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (2.0 MB streaming, 0.5 MB non-streaming), 8 textures
+[2020.03.12-18.31.35:803][818]LogStaticLightingSystem: Shadowmap texture memory: 3.3 MB (2.7 MB streaming, 0.7 MB non-streaming), 4 textures
+[2020.03.12-18.31.36:196][818]DumpUnbuiltLightIteractions
+[2020.03.12-18.31.36:196][818]Lights with unbuilt interactions: 0
+[2020.03.12-18.31.36:196][818]
+[2020.03.12-18.31.36:196][818]Primitives with unbuilt interactions: 0
+[2020.03.12-18.32.05:159][819]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.12-18.32.05:159][819]MapCheck: New page: FirstPersonExampleMap - Mar 12, 2020, 8:32:05 AM
+[2020.03.12-18.32.05:160][819]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.522ms to complete.
+[2020.03.12-18.32.08:322][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowWall)
+[2020.03.12-18.32.08:950][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor17)
+[2020.03.12-18.32.11:801][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowWall)
+[2020.03.12-18.32.15:597][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowWall)
+[2020.03.12-18.32.16:734][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.03.12-18.32.16:862][138]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap91C4F59B47CCC05E3E21C580A6CAC2A0.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.12-18.32.16:986][138]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData6894C80D493B9C9B7F2D7A8680141F26.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.12-18.32.17:006][138]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-18.32.17:006][138]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.12-18.32.17:006][138]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.12-18.32.18:350][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor17)
+[2020.03.12-18.32.18:637][327]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor17)
+[2020.03.12-18.32.19:577][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor17)
+[2020.03.12-18.32.31:219][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor17)
+[2020.03.12-18.32.31:682][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor39)
+[2020.03.12-18.32.42:864][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate2)
+[2020.03.12-18.32.43:966][301]Cmd: EDIT COPY
+[2020.03.12-18.32.44:425][356]Cmd: EDIT PASTE
+[2020.03.12-18.33.00:351][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.03.12-18.33.00:489][251]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap42DCB1CB4DDC79F3637327915B86AEDF.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.12-18.33.00:613][251]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData1811D1AB4111B61AFCF7B8B0C9C54A9D.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.12-18.33.00:632][251]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-18.33.00:633][251]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.12-18.33.00:633][251]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.12-18.33.01:816][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate2)
+[2020.03.12-18.33.07:449][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.03.12-18.33.07:576][ 42]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap5CF0BA174E4C72232EDF188CD7F38AF7.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.12-18.33.07:701][ 42]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData1E9FF83C40295FEEF620B1A524AE0987.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.12-18.33.07:719][ 42]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-18.33.07:719][ 42]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.12-18.33.07:719][ 42]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.12-18.33.45:309][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_MERGED_SM_Winchester__1__Wood1_51" FILE="../../../../../../Users/W211619481/Desktop/ewew/west/Content/SM_MERGED_SM_Winchester__1__Wood1_51.uasset" SILENT=true
+[2020.03.12-18.33.45:323][449]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/SM_MERGED_SM_Winchester__1__Wood58671599423A461F1A03618F83B37394.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/SM_MERGED_SM_Winchester__1__Wood1_51.uasset'
+[2020.03.12-18.33.45:339][449]AssetCheck: New page: Asset Save: SM_MERGED_SM_Winchester__1__Wood1_51
+[2020.03.12-18.33.45:339][449]LogContentValidation: Display: Validating StaticMesh /Game/SM_MERGED_SM_Winchester__1__Wood1_51.SM_MERGED_SM_Winchester__1__Wood1_51
+[2020.03.12-18.33.55:874][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor20)
+[2020.03.12-18.33.57:468][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table4)
+[2020.03.12-18.35.37:914][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table7)
+[2020.03.12-18.35.44:199][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rug)
+[2020.03.12-18.35.45:061][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2020.03.12-18.35.52:521][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rug)
+[2020.03.12-18.35.55:580][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table7)
+[2020.03.12-18.35.58:489][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2020.03.12-18.36.03:411][763]Cmd: EDIT COPY
+[2020.03.12-18.36.03:964][828]Cmd: EDIT PASTE
+[2020.03.12-18.36.16:413][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Knife)
+[2020.03.12-18.36.42:053][121]LogStaticMesh: Building static mesh SM_PokerSet_Deck...
+[2020.03.12-18.36.42:074][121]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Meshes/Props/PokerTable/PokerSet/Meshes/SM_PokerSet_Deck.SM_PokerSet_Deck
+[2020.03.12-18.36.42:156][126]LogActorFactory: Actor Factory created SM_PokerSet_Deck
+[2020.03.12-18.36.43:044][223]LogActorFactory: Actor Factory created SM_PokerSet_Deck
+[2020.03.12-18.36.49:030][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.03.12-18.36.49:176][877]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap0F3DAD6E496A6DA1350321A189149EDE.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.12-18.36.49:311][877]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltDataBD9232F14834E2C1BD51119D813E46E9.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.12-18.36.49:328][877]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-18.36.49:328][877]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.12-18.36.49:328][877]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.12-18.36.55:275][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rug)
+[2020.03.12-18.37.02:080][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.03.12-18.37.02:208][283]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMapBD6F5D734011E240CF63E79C241A8352.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.12-18.37.02:332][283]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltDataA95B0BD34F7B0F30BD0ADFA8E2EE0CA8.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.12-18.37.02:352][283]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-18.37.02:352][283]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.12-18.37.02:352][283]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.12-18.37.16:481][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Barrel)
