@@ -876,3 +876,280 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.12-17.00.57:235][132]AssetCheck: New page: Asset Save: multiple assets
 [2020.03.12-17.00.57:235][132]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.03.12-17.00.57:235][132]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.12-17.01.14:451][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor20)
+[2020.03.12-17.01.51:967][461]LogTexture: Display: Building textures: flare (AutoDXT, 256X256)
+[2020.03.12-17.01.52:743][528]LogMaterial: Display: Missing cached shader map for material flare_Mat, compiling. 
+[2020.03.12-17.02.18:361][475]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Dust/Dust.uasset' failed to load '/Game/Materials/Dust/flare': Can't find file.
+[2020.03.12-17.02.18:361][475]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Dust/Dust.uasset' failed to load '/Game/Materials/Dust/flare': Can't find file.
+[2020.03.12-17.02.18:361][475]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Dust/Dust.uasset' failed to load '/Game/Materials/Dust/flare': Can't find file.
+[2020.03.12-17.02.18:361][475]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Dust/Dust.uasset' failed to load '/Game/Materials/Dust/flare': Can't find file.
+[2020.03.12-17.02.18:362][475]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Dust/Dust.uasset' failed to load '/Game/Materials/Dust/flare': Can't find file.
+[2020.03.12-17.02.18:362][475]LoadErrors: Failed to load /Game/Materials/Dust/flare.flare Referenced by MaterialExpressionTextureSample_0
+[2020.03.12-17.02.18:362][475]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Dust/Dust.uasset' failed to load '/Game/Materials/Dust/flare': Can't find file.
+[2020.03.12-17.02.18:366][475]LogMaterial: Display: Missing cached shader map for material Dust, compiling. 
+[2020.03.12-17.02.18:366][475]LogMaterial: Warning: C:\Users\W211619481\Desktop\ewew\west\Content\Meshes\Materials\Dust\Dust.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.12-17.02.18:366][475]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.12-17.02.24:924][ 52]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Dust/DustPS.uasset' failed to load '/Game/Materials/Dust/Dust': Can't find file.
+[2020.03.12-17.02.24:924][ 52]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Dust/DustPS.uasset' failed to load '/Game/Materials/Dust/Dust': Can't find file.
+[2020.03.12-17.02.24:924][ 52]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Dust/DustPS.uasset' failed to load '/Game/Materials/Dust/Dust': Can't find file.
+[2020.03.12-17.02.24:924][ 52]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Dust/DustPS.uasset' failed to load '/Game/Materials/Dust/Dust': Can't find file.
+[2020.03.12-17.02.24:925][ 52]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Dust/DustPS.uasset' failed to load '/Game/Materials/Dust/Dust': Can't find file.
+[2020.03.12-17.02.24:925][ 52]LoadErrors: Failed to load /Game/Materials/Dust/Dust.Dust Referenced by ParticleModuleRequired_0
+[2020.03.12-17.02.24:925][ 52]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Dust/DustPS.uasset' failed to load '/Game/Materials/Dust/Dust': Can't find file.
+[2020.03.12-17.02.27:352][261]LogEditorViewport: Clicking on Actor (LMB): Emitter (DustPS)
+[2020.03.12-17.02.44:360][476]LogEditorViewport: Clicking on Actor (LMB): Emitter (DustPS)
+[2020.03.12-17.02.52:278][188]Cmd: EDIT COPY
+[2020.03.12-17.02.53:239][274]Cmd: EDIT PASTE
+[2020.03.12-17.03.04:355][315]Cmd: EDIT COPY
+[2020.03.12-17.03.04:989][378]Cmd: EDIT PASTE
+[2020.03.12-17.03.08:791][745]Cmd: EDIT COPY
+[2020.03.12-17.03.09:206][787]Cmd: EDIT PASTE
+[2020.03.12-17.03.12:704][131]Cmd: EDIT CUT
+[2020.03.12-17.03.12:710][131]LogEditorActor: Deleted Actor: Emitter
+[2020.03.12-17.03.12:734][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.03.12-17.03.12:735][131]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.03.12-17.03.15:916][451]LogEditorViewport: Clicking on Actor (LMB): Emitter (DustPS2)
+[2020.03.12-17.03.17:137][569]Cmd: EDIT COPY
+[2020.03.12-17.03.17:644][621]Cmd: EDIT PASTE
+[2020.03.12-17.03.24:517][309]Cmd: EDIT COPY
+[2020.03.12-17.03.25:039][361]Cmd: EDIT PASTE
+[2020.03.12-17.03.32:298][ 41]Cmd: EDIT COPY
+[2020.03.12-17.03.32:761][ 83]Cmd: EDIT PASTE
+[2020.03.12-17.03.52:615][872]Cmd: EDIT COPY
+[2020.03.12-17.03.53:103][921]Cmd: EDIT PASTE
+[2020.03.12-17.04.28:455][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.03.12-17.04.28:568][966]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap2AE2574B4C3E253A19F25AAAABADBC03.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.12-17.04.28:632][966]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData358E815E4A5B3A422C2AABB696364771.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.12-17.04.28:649][966]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-17.04.28:649][966]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.12-17.04.28:649][966]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.12-17.04.30:868][160]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.12-17.04.30:876][160]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.12-17.04.30:876][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.12-17.04.30:876][160]PIE: New page: PIE session: FirstPersonExampleMap (Mar 12, 2020, 7:04:30 AM)
+[2020.03.12-17.04.30:876][160]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.12-17.04.30:893][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016991s)
+[2020.03.12-17.04.30:894][160]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.12-17.04.30:894][160]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2020.03.12-17.04.30:894][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017962s)
+[2020.03.12-17.04.30:914][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.03.12-17.04.30:916][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.12-17.04.30:916][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.12-17.04.30:916][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.12-17.04.30:916][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.12-17.04.30:916][160]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.12-17.04.30:916][160]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.12-17.04.30:916][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.12-17.04.30:916][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.12-17.04.30:916][160]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.12-17.04.30:916][160]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.12-17.04.30:922][160]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.12-17.04.30:922][160]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.03.12-17.04.30:922][160]LogAudioMixer: Display: Is Default: Yes
+[2020.03.12-17.04.30:922][160]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.12-17.04.30:922][160]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.12-17.04.30:922][160]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.12-17.04.30:922][160]LogAudioMixer: Display: Channel Order:
+[2020.03.12-17.04.30:922][160]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.12-17.04.30:922][160]LogAudioMixer: Display: 1: FrontRight
+[2020.03.12-17.04.30:988][160]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.03.12-17.04.30:989][160]LogInit: FAudioDevice initialized.
+[2020.03.12-17.04.30:997][160]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.12-17.04.30:999][160]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.12-12.04.30
+[2020.03.12-17.04.31:000][160]LogWorld: Bringing up level for play took: 0.001436
+[2020.03.12-17.04.31:000][160]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.03.12-17.04.31:001][160]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.03.12-17.04.31:001][160]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.206
+[2020.03.12-17.04.31:001][160]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.12-17.05.05:245][853]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.12-17.05.05:245][853]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.12-17.05.05:245][853]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.12-17.05.05:246][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-17.05.05:246][853]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.12-17.05.05:246][853]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.12-17.05.05:246][853]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-17.05.05:246][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.12-17.05.05:272][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.12-17.05.05:272][853]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.12-17.05.05:275][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.12-17.05.05:298][853]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.12-17.05.05:301][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-17.05.05:303][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.03.12-17.05.05:349][856]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.03.12-17.05.08:064][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scaffolding)
+[2020.03.12-17.05.09:618][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pillar)
+[2020.03.12-17.05.32:177][116]LogStaticMesh: Building static mesh SM_Crate...
+[2020.03.12-17.05.32:214][116]LogStaticMesh: Built static mesh [0.04s] /Game/Meshes/Props/Crate/SM_Crate.SM_Crate
+[2020.03.12-17.05.32:321][122]LogActorFactory: Actor Factory created SM_Crate
+[2020.03.12-17.05.32:959][176]LogActorFactory: Actor Factory created SM_Crate
+[2020.03.12-17.05.33:965][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_BaseColor': Can't find file.
+[2020.03.12-17.05.33:965][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_BaseColor': Can't find file.
+[2020.03.12-17.05.33:965][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_Normal': Can't find file.
+[2020.03.12-17.05.33:965][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_Normal': Can't find file.
+[2020.03.12-17.05.33:965][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.05.33:965][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.05.33:966][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_BaseColor': Can't find file.
+[2020.03.12-17.05.33:966][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_BaseColor': Can't find file.
+[2020.03.12-17.05.33:966][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_Normal': Can't find file.
+[2020.03.12-17.05.33:966][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_Normal': Can't find file.
+[2020.03.12-17.05.33:966][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.05.33:966][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.05.33:966][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_BaseColor': Can't find file.
+[2020.03.12-17.05.33:966][251]LoadErrors: Failed to load /Game/Meshes/Props/Crate/Propset_lambert33_BaseColor.Propset_lambert33_BaseColor Referenced by MaterialExpressionTextureSample_3
+[2020.03.12-17.05.33:966][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_BaseColor': Can't find file.
+[2020.03.12-17.05.33:966][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_Normal': Can't find file.
+[2020.03.12-17.05.33:966][251]LoadErrors: Failed to load /Game/Meshes/Props/Crate/Propset_lambert33_Normal.Propset_lambert33_Normal Referenced by MaterialExpressionTextureSample_4
+[2020.03.12-17.05.33:967][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_Normal': Can't find file.
+[2020.03.12-17.05.33:967][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.05.33:967][251]LoadErrors: Failed to load /Game/Meshes/Props/Crate/Propset_lambert33_OcclusionRoughnessMetallic.Propset_lambert33_OcclusionRoughnessMetallic Referenced by MaterialExpressionTextureSample_5
+[2020.03.12-17.05.33:967][251]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Crate/M_Crate.uasset' failed to load '/Game/Meshes/Props/Crate/Propset_lambert33_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.05.33:971][251]LogMaterial: Display: Missing cached shader map for material M_Crate, compiling. 
+[2020.03.12-17.05.33:971][251]LogMaterial: Warning: C:\Users\W211619481\Desktop\ewew\west\Content\Meshes\Props\Crate\M_Crate.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.12-17.05.33:971][251]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.12-17.05.38:997][640]LogTexture: Display: Building textures: SM_Crate_lambert2_BaseColor (AutoDXT, 1024X1024)
+[2020.03.12-17.05.39:528][684]LogMaterial: Display: Missing cached shader map for material SM_Crate_lambert2_BaseColor_Mat, compiling. 
+[2020.03.12-17.05.49:342][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate)
+[2020.03.12-17.05.50:798][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate)
+[2020.03.12-17.06.03:737][799]LogTexture: Display: Building textures: SM_Knife_lambert1_Normal (BC5, 1024X1024)
+[2020.03.12-17.06.03:737][799]LogTexture: Display: Building textures: SM_Knife_lambert1_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2020.03.12-17.06.03:737][799]LogTexture: Display: Building textures: SM_Knife_lambert1_BaseColor (AutoDXT, 1024X1024)
+[2020.03.12-17.06.03:737][799]LogStaticMesh: Building static mesh SM_Knife...
+[2020.03.12-17.06.03:768][799]LogStaticMesh: Built static mesh [0.03s] /Game/Meshes/Props/Knife/SM_Knife.SM_Knife
+[2020.03.12-17.06.03:776][799]LogMaterial: Display: Missing cached shader map for material M_Knife, compiling. 
+[2020.03.12-17.06.03:805][799]LogActorFactory: Actor Factory created SM_Knife
+[2020.03.12-17.06.04:419][858]LogActorFactory: Actor Factory created SM_Knife
+[2020.03.12-17.06.14:824][694]LogMaterial: Display: Missing cached shader map for material SM_Knife_lambert1_BaseColor_Mat, compiling. 
+[2020.03.12-17.06.45:681][ 55]LogStaticMesh: Building static mesh SM_Table...
+[2020.03.12-17.06.45:729][ 55]LogStaticMesh: Built static mesh [0.05s] /Game/Meshes/Props/PokerTable/SM_Table.SM_Table
+[2020.03.12-17.06.45:848][ 63]LogActorFactory: Actor Factory created SM_Table
+[2020.03.12-17.06.47:662][225]LogActorFactory: Actor Factory created SM_Table
+[2020.03.12-17.07.00:461][304]LogStaticMesh: Building static mesh SM_Bottle...
+[2020.03.12-17.07.00:497][304]LogStaticMesh: Built static mesh [0.04s] /Game/Meshes/Props/PokerTable/SM_Bottle.SM_Bottle
+[2020.03.12-17.07.00:507][304]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.03.12-17.07.00:616][309]LogActorFactory: Actor Factory created SM_Bottle
+[2020.03.12-17.07.01:986][429]LogActorFactory: Actor Factory created SM_Bottle
+[2020.03.12-17.07.31:443][ 29]LogStaticMesh: Building static mesh SM_Rug...
+[2020.03.12-17.07.31:475][ 29]LogStaticMesh: Built static mesh [0.03s] /Game/Meshes/Props/Rug/SM_Rug.SM_Rug
+[2020.03.12-17.07.31:525][ 29]LogTexture: Display: Building textures: Rug (BGRA8, 1450X959)
+[2020.03.12-17.07.31:525][ 29]LogMaterial: Display: Missing cached shader map for material lambert24, compiling. 
+[2020.03.12-17.07.31:556][ 29]LogActorFactory: Actor Factory created SM_Rug
+[2020.03.12-17.07.32:414][107]LogActorFactory: Actor Factory created SM_Rug
+[2020.03.12-17.07.36:502][363]LogMaterial: Display: Missing cached shader map for material Rug_Mat, compiling. 
+[2020.03.12-17.08.06:214][856]LogTexture: Display: Building textures: SM_Winchester_Metal_BaseColor (AutoDXT, 1024X1024)
+[2020.03.12-17.08.06:214][856]LogTexture: Display: Building textures: SM_Winchester_Metal_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2020.03.12-17.08.06:214][856]LogTexture: Display: Building textures: SM_Winchester_Metal_Normal (BC5, 1024X1024)
+[2020.03.12-17.08.06:214][856]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2020.03.12-17.08.06:273][856]LogStaticMesh: Building static mesh SM_Winchester__1__Metal1...
+[2020.03.12-17.08.06:340][856]LogStaticMesh: Built static mesh [0.07s] /Game/Meshes/Props/WInchester/SM_Winchester__1__Metal1.SM_Winchester__1__Metal1
+[2020.03.12-17.08.06:371][856]LogActorFactory: Actor Factory created SM_Winchester__1__Metal1
+[2020.03.12-17.08.07:728][970]LogActorFactory: Actor Factory created SM_Winchester__1__Metal1
+[2020.03.12-17.08.15:060][537]LogTexture: Display: Building textures: SM_Winchester_Wood_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2020.03.12-17.08.15:060][537]LogTexture: Display: Building textures: SM_Winchester_Wood_BaseColor (AutoDXT, 1024X1024)
+[2020.03.12-17.08.15:060][537]LogTexture: Display: Building textures: SM_Winchester_Wood_Normal (BC5, 1024X1024)
+[2020.03.12-17.08.15:060][537]LogMaterial: Display: Missing cached shader map for material Wood, compiling. 
+[2020.03.12-17.08.15:078][537]LogStaticMesh: Building static mesh SM_Winchester__1__Wood1...
+[2020.03.12-17.08.15:091][537]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Props/WInchester/SM_Winchester__1__Wood1.SM_Winchester__1__Wood1
+[2020.03.12-17.08.15:119][537]LogActorFactory: Actor Factory created SM_Winchester__1__Wood1
+[2020.03.12-17.08.16:161][626]LogActorFactory: Actor Factory created SM_Winchester__1__Wood1
+[2020.03.12-17.08.38:303][394]LogMaterial: Display: Missing cached shader map for material SM_Winchester_Metal_BaseColor_Mat, compiling. 
+[2020.03.12-17.08.40:286][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Winchester__1__Wood1)
+[2020.03.12-17.08.49:438][294]LogMaterial: Display: Missing cached shader map for material SM_Winchester_Wood_BaseColor_Mat, compiling. 
+[2020.03.12-17.08.59:165][ 53]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/WInchester/SM_GunMount.uasset' failed to load '/Game/Meshes/Props/WInchester/lambert1': Can't find file.
+[2020.03.12-17.08.59:166][ 53]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/WInchester/SM_GunMount.uasset' failed to load '/Game/Meshes/Props/WInchester/lambert1': Can't find file.
+[2020.03.12-17.08.59:166][ 53]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/WInchester/SM_GunMount.uasset' failed to load '/Game/Meshes/Props/WInchester/lambert1': Can't find file.
+[2020.03.12-17.08.59:166][ 53]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/WInchester/SM_GunMount.uasset' failed to load '/Game/Meshes/Props/WInchester/lambert1': Can't find file.
+[2020.03.12-17.08.59:166][ 53]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/WInchester/SM_GunMount.uasset' failed to load '/Game/Meshes/Props/WInchester/lambert1': Can't find file.
+[2020.03.12-17.08.59:166][ 53]LoadErrors: Failed to load /Game/Meshes/Props/WInchester/lambert1.lambert1 Referenced by SM_GunMount
+[2020.03.12-17.08.59:166][ 53]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/WInchester/SM_GunMount.uasset' failed to load '/Game/Meshes/Props/WInchester/lambert1': Can't find file.
+[2020.03.12-17.08.59:166][ 53]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/WInchester/SM_GunMount.uasset' failed to load '/Game/Meshes/Props/WInchester/lambert1': Can't find file.
+[2020.03.12-17.08.59:166][ 53]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/WInchester/SM_GunMount.uasset' failed to load '/Game/Meshes/Props/WInchester/lambert1': Can't find file.
+[2020.03.12-17.08.59:177][ 53]LogStaticMesh: Building static mesh SM_GunMount...
+[2020.03.12-17.08.59:220][ 53]LogStaticMesh: Built static mesh [0.04s] /Game/Meshes/Props/WInchester/SM_GunMount.SM_GunMount
+[2020.03.12-17.08.59:319][ 57]LogActorFactory: Actor Factory created SM_GunMount
+[2020.03.12-17.09.00:566][161]LogActorFactory: Actor Factory created SM_GunMount
+[2020.03.12-17.09.39:608][382]LogMaterial: Display: Missing cached shader map for material lambert26, compiling. 
+[2020.03.12-17.09.39:627][382]LogStaticMesh: Building static mesh SM_Barrel...
+[2020.03.12-17.09.39:648][382]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Props/Barrel/SM_Barrel.SM_Barrel
+[2020.03.12-17.09.40:021][412]LogActorFactory: Actor Factory created SM_Barrel
+[2020.03.12-17.09.40:713][472]LogActorFactory: Actor Factory created SM_Barrel
+[2020.03.12-17.10.09:838][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_BaseColor': Can't find file.
+[2020.03.12-17.10.09:839][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_BaseColor': Can't find file.
+[2020.03.12-17.10.09:839][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_Normal': Can't find file.
+[2020.03.12-17.10.09:839][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_Normal': Can't find file.
+[2020.03.12-17.10.09:839][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.10.09:839][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.10.09:839][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_BaseColor': Can't find file.
+[2020.03.12-17.10.09:839][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_BaseColor': Can't find file.
+[2020.03.12-17.10.09:839][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_Normal': Can't find file.
+[2020.03.12-17.10.09:839][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_Normal': Can't find file.
+[2020.03.12-17.10.09:839][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.10.09:840][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.10.09:840][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_BaseColor': Can't find file.
+[2020.03.12-17.10.09:840][838]LoadErrors: Failed to load /Game/Materials/PokerTable/SM_Table_lambert26_BaseColor.SM_Table_lambert26_BaseColor Referenced by MaterialExpressionTextureSample_0
+[2020.03.12-17.10.09:840][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_BaseColor': Can't find file.
+[2020.03.12-17.10.09:840][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_Normal': Can't find file.
+[2020.03.12-17.10.09:840][838]LoadErrors: Failed to load /Game/Materials/PokerTable/SM_Table_lambert26_Normal.SM_Table_lambert26_Normal Referenced by MaterialExpressionTextureSample_1
+[2020.03.12-17.10.09:840][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_Normal': Can't find file.
+[2020.03.12-17.10.09:840][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.10.09:840][838]LoadErrors: Failed to load /Game/Materials/PokerTable/SM_Table_lambert26_OcclusionRoughnessMetallic.SM_Table_lambert26_OcclusionRoughnessMetallic Referenced by MaterialExpressionTextureSample_2
+[2020.03.12-17.10.09:840][838]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/PokerTable/M_PokerTable.uasset' failed to load '/Game/Materials/PokerTable/SM_Table_lambert26_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.10.09:844][838]LogMaterial: Display: Missing cached shader map for material M_PokerTable, compiling. 
+[2020.03.12-17.10.09:845][838]LogMaterial: Warning: C:\Users\W211619481\Desktop\ewew\west\Content\Meshes\Materials\PokerTable\M_PokerTable.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.12-17.10.09:845][838]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.12-17.10.17:593][410]LogTexture: Display: Building textures: SM_Table_lambert26_BaseColor (AutoDXT, 2048X2048)
+[2020.03.12-17.10.18:637][499]LogMaterial: Display: Missing cached shader map for material SM_Table_lambert26_BaseColor_Mat, compiling. 
+[2020.03.12-17.11.13:092][171]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Chair/SM_Chair.uasset' failed to load '/Game/Meshes/Props/Chair/lambert1': Can't find file.
+[2020.03.12-17.11.13:092][171]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Chair/SM_Chair.uasset' failed to load '/Game/Meshes/Props/Chair/lambert1': Can't find file.
+[2020.03.12-17.11.13:092][171]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Chair/SM_Chair.uasset' failed to load '/Game/Meshes/Props/Chair/lambert1': Can't find file.
+[2020.03.12-17.11.13:092][171]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Chair/SM_Chair.uasset' failed to load '/Game/Meshes/Props/Chair/lambert1': Can't find file.
+[2020.03.12-17.11.13:093][171]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Chair/SM_Chair.uasset' failed to load '/Game/Meshes/Props/Chair/lambert1': Can't find file.
+[2020.03.12-17.11.13:093][171]LoadErrors: Failed to load /Game/Meshes/Props/Chair/lambert1.lambert1 Referenced by SM_Chair
+[2020.03.12-17.11.13:093][171]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Chair/SM_Chair.uasset' failed to load '/Game/Meshes/Props/Chair/lambert1': Can't find file.
+[2020.03.12-17.11.13:093][171]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Chair/SM_Chair.uasset' failed to load '/Game/Meshes/Props/Chair/lambert1': Can't find file.
+[2020.03.12-17.11.13:093][171]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Props/Chair/SM_Chair.uasset' failed to load '/Game/Meshes/Props/Chair/lambert1': Can't find file.
+[2020.03.12-17.11.13:115][171]LogStaticMesh: Building static mesh SM_Chair...
+[2020.03.12-17.11.13:166][171]LogStaticMesh: Built static mesh [0.05s] /Game/Meshes/Props/Chair/SM_Chair.SM_Chair
+[2020.03.12-17.11.13:235][173]LogActorFactory: Actor Factory created SM_Chair
+[2020.03.12-17.11.13:974][235]LogActorFactory: Actor Factory created SM_Chair
+[2020.03.12-17.11.22:158][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_BaseColor': Can't find file.
+[2020.03.12-17.11.22:158][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_BaseColor': Can't find file.
+[2020.03.12-17.11.22:158][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_Normal': Can't find file.
+[2020.03.12-17.11.22:158][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_Normal': Can't find file.
+[2020.03.12-17.11.22:158][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.11.22:158][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.11.22:159][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_BaseColor': Can't find file.
+[2020.03.12-17.11.22:159][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_BaseColor': Can't find file.
+[2020.03.12-17.11.22:159][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_Normal': Can't find file.
+[2020.03.12-17.11.22:159][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_Normal': Can't find file.
+[2020.03.12-17.11.22:159][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.11.22:159][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.11.22:159][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_BaseColor': Can't find file.
+[2020.03.12-17.11.22:159][921]LoadErrors: Failed to load /Game/Materials/Chair/TableProps_MAT07_BaseColor.TableProps_MAT07_BaseColor Referenced by MaterialExpressionTextureSample_0
+[2020.03.12-17.11.22:159][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_BaseColor': Can't find file.
+[2020.03.12-17.11.22:160][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_Normal': Can't find file.
+[2020.03.12-17.11.22:160][921]LoadErrors: Failed to load /Game/Materials/Chair/TableProps_MAT07_Normal.TableProps_MAT07_Normal Referenced by MaterialExpressionTextureSample_1
+[2020.03.12-17.11.22:160][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_Normal': Can't find file.
+[2020.03.12-17.11.22:160][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.11.22:160][921]LoadErrors: Failed to load /Game/Materials/Chair/TableProps_MAT07_OcclusionRoughnessMetallic.TableProps_MAT07_OcclusionRoughnessMetallic Referenced by MaterialExpressionTextureSample_2
+[2020.03.12-17.11.22:160][921]LogLinker: Warning: While loading '../../../../../../Users/W211619481/Desktop/ewew/west/Content/Meshes/Materials/Chair/M_Chair.uasset' failed to load '/Game/Materials/Chair/TableProps_MAT07_OcclusionRoughnessMetallic': Can't find file.
+[2020.03.12-17.11.22:163][921]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.03.12-17.11.22:164][921]LogMaterial: Warning: C:\Users\W211619481\Desktop\ewew\west\Content\Meshes\Materials\Chair\M_Chair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.12-17.11.22:164][921]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.12-17.11.37:124][189]LogTexture: Display: Building textures: TableProps_MAT07_BaseColor (AutoDXT, 1024X1024)
+[2020.03.12-17.11.37:802][247]LogMaterial: Display: Missing cached shader map for material TableProps_MAT07_BaseColor_Mat, compiling. 
+[2020.03.12-17.11.43:427][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scaffolding2)
+[2020.03.12-17.12.03:724][436]LogStaticMesh: Building static mesh SM_Staircase...
+[2020.03.12-17.12.03:859][436]LogStaticMesh: Built static mesh [0.13s] /Game/Meshes/Building/Staircase/SM_Staircase.SM_Staircase
+[2020.03.12-17.12.03:935][436]LogActorFactory: Actor Factory created SM_Staircase
+[2020.03.12-17.12.07:613][744]LogActorFactory: Actor Factory created SM_Staircase
+[2020.03.12-17.12.09:674][921]Cmd: DELETE
+[2020.03.12-17.12.09:674][921]Cmd: ACTOR DELETE
+[2020.03.12-17.12.09:677][921]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-17.12.09:702][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.03.12-17.12.09:704][921]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.03.12-17.12.11:591][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.03.12-17.12.11:723][ 81]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMapAB6AA36E44E42EC99DDD44BDF33B6140.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.12-17.12.11:793][ 81]LogSavePackage: Moving '../../../../../../Users/W211619481/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData3E26A7924A09D0AAD9833795EBD2812A.tmp' to '../../../../../../Users/W211619481/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.12-17.12.11:809][ 81]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-17.12.11:809][ 81]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.12-17.12.11:809][ 81]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
