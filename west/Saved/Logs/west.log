@@ -767,3 +767,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.23-17.50.29:802][939]LogHttp: Warning: 000001B920F1D300: libcurl info message cache 1 (Closing connection 3)
 [2020.03.23-17.50.30:140][940]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD96F3E9E-4451-CEEF-53B6-BF908EBCE299%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=2c019fe54742b26bc75395ab33624fab%7C714bf226af8c42568065025fe1d7b965%7C7cd578d6-c7d8-4646-8cfd-2a2706e63678&AppEnvironment=datacollector-binary&UploadType=eteventstream
 [2020.03.23-17.54.24:227][637]LogSlate: Took 0.000412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.23-19.26.55:813][708]LogActorFactory: Actor Factory created SM_Pillar
+[2020.03.23-19.26.59:933][201]LogActorFactory: Actor Factory created SM_Pillar
+[2020.03.23-19.27.09:589][339]Cmd: EDIT COPY
+[2020.03.23-19.27.10:671][468]Cmd: EDIT PASTE
+[2020.03.23-19.27.23:921][ 28]LogActorFactory: Actor Factory created SM_Pillar
+[2020.03.23-19.27.28:359][559]LogActorFactory: Actor Factory created SM_Pillar
+[2020.03.23-19.27.38:968][799]LogActorFactory: Actor Factory created SM_Pillar
+[2020.03.23-19.27.44:510][462]LogActorFactory: Actor Factory created SM_Pillar
+[2020.03.23-19.27.49:878][ 93]LogActorFactory: Actor Factory created SM_Pillar
+[2020.03.23-19.27.55:251][737]LogActorFactory: Actor Factory created SM_Pillar
+[2020.03.23-19.28.01:279][428]LogActorFactory: Actor Factory created SM_Pillar
+[2020.03.23-19.28.06:099][  5]LogActorFactory: Actor Factory created SM_Pillar
+[2020.03.23-19.28.12:710][777]LogActorFactory: Actor Factory created SM_Pillar
+[2020.03.23-19.28.15:792][146]LogActorFactory: Actor Factory created SM_Pillar
+[2020.03.23-19.29.20:463][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pillar3)
+[2020.03.23-19.29.27:250][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pillar4)
+[2020.03.23-19.29.49:921][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pillar9)
+[2020.03.23-19.30.04:622][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pillar7)
+[2020.03.23-19.30.05:605][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2)
+[2020.03.23-19.30.06:388][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pillar7)
+[2020.03.23-19.30.09:866][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.03.23-19.30.10:057][584]LogSavePackage: Moving '../../../../../../Users/user5/Desktop/ewew/west/Saved/FirstPersonExampleMap5F7018324C637E21FFE47888C29D5F61.tmp' to '../../../../../../Users/user5/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.23-19.30.10:290][584]LogSavePackage: Moving '../../../../../../Users/user5/Desktop/ewew/west/Saved/FirstPersonExampleMap_BuiltData74BE02A34E1A996C5953628D0812A11A.tmp' to '../../../../../../Users/user5/Desktop/ewew/west/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.23-19.30.10:303][584]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.23-19.30.10:303][584]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.23-19.30.10:303][584]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
